@@ -1,6 +1,6 @@
 <!-- Header gif -->
 
-# [dan bamikiya header](https://raw.githubusercontent.com/danBamikiya/danBamikiya/main/bio.gif "Header")
+# ![dan bamikiya header](https://raw.githubusercontent.com/danBamikiya/danBamikiya/main/bio.gif "Header")
 <!-- Social links -->
 <p align='center'>
 <a href="https://twitter.com/danBamikiya"><img height="30" src="https://github.com/danBamikiya/danBamikiya/blob/main/twitter.png?raw=true"></a>&nbsp;&nbsp;
