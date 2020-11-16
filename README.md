@@ -1,6 +1,6 @@
 <!-- Header gif -->
 
-# <p align='center'>![Hey there, I'm Dan. I'm a software developer. Check out my work](https://raw.githubusercontent.com/danBamikiya/danBamikiya/main/dan_bio1.gif "Header")<p>
+# <p align='center'>![Hey there, I'm Dan. I'm a software developer. Check out my work](https://raw.githubusercontent.com/danBamikiya/danBamikiya/main/dan_bio1.gif "Dan Bamikiya")<p>
 <!-- <p align='center'><img src="https://raw.githubusercontent.com/danBamikiya/danBamikiya/main/dan_bio1.gif"></p> -->
 
 <!-- Social links -->
