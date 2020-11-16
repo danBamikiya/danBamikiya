@@ -1,7 +1,7 @@
 <!-- Header gif -->
 
 <!--# ![Hey there, I'm Dan. I'm a software developer. Check out my work](<img src="https://raw.githubusercontent.com/danBamikiya/danBamikiya/main/bio.gif" width="800px" height="387px"> "Header")-->
-<img src="https://raw.githubusercontent.com/danBamikiya/danBamikiya/main/bio.gif" width="800px" height="387px">
+<p align='center'><img src="https://raw.githubusercontent.com/danBamikiya/danBamikiya/main/bio.gif" width="800px" height="387px"></p>
 
 <!-- Social links -->
 <p align='center'>
