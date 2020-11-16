@@ -1,6 +1,6 @@
 <!-- Header gif -->
 
-# ![Hey there, I'm Dan. I'm a software developer. Check out my work](https://raw.githubusercontent.com/danBamikiya/danBamikiya/main/bio.gif "Header")
+# ![Hey there, I'm Dan. I'm a software developer. Check out my work](<img src="https://raw.githubusercontent.com/danBamikiya/danBamikiya/main/bio.gif" width="800px" height="387px"> "Header")
 <!-- Social links -->
 <p align='center'>
 <a href="https://twitter.com/danBamikiya"><img height="30" src="https://github.com/danBamikiya/danBamikiya/blob/main/twitter.png?raw=true"></a>&nbsp;&nbsp;
