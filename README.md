@@ -1,7 +1,6 @@
 <!-- Header gif -->
 
-# [![dan bamikiya header](https://raw.githubusercontent.com/danBamikiya/danBamikiya/main/bio.gif "Header")]
-
+# [dan bamikiya header](https://raw.githubusercontent.com/danBamikiya/danBamikiya/main/bio.gif "Header")
 <!-- Social links -->
 <p align='center'>
 <a href="https://twitter.com/danBamikiya"><img height="30" src="https://github.com/danBamikiya/danBamikiya/blob/main/twitter.png?raw=true"></a>&nbsp;&nbsp;
@@ -23,7 +22,6 @@ Other interests: Nanotechnology, AI
 
 
 ## 🔧 Technologies & Tools
-
 ---
 
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
@@ -46,13 +44,11 @@ Other interests: Nanotechnology, AI
 
 
 ## ⚡ Hobbies
-
 ---
 
 🏸 Badminton  🏓 Table Tennis 🏹 Archery
 
 ## 📈 Github Stats
-
 ---
 
 
