@@ -21,8 +21,9 @@ I'm a Frontend Software Engineer. I have a passion for sleek user-friendly desig
 Other interests: Nanotechnology, AI
 
 
-## 🔧 Technologies & Tools
----
+### 🔧 Technologies & Tools
+
+  ---
 
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
@@ -43,18 +44,20 @@ Other interests: Nanotechnology, AI
 ![](https://img.shields.io/badge/Tools-MongoDB.js-informational?style=flat&logo=mongodb&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
 
 
-## ⚡ Hobbies
----
+### ⚡ Hobbies
+
+  ---
 
 🏸 Badminton  🏓 Table Tennis 🏹 Archery
 
-## 📈 Github Stats
----
+### 📈 Github Stats
+
+  ---
 
 
 <a href="https://github.com/danBamikiya/danBamikiya">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danBamikiya&hide=html&bg_color=031a1f&title_color=bdddff&text_color=c9cacc&icon_color=0e6b7f" />
 </a>
 <a href="https://github.com/danBamikiya/danBamikiya">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=danBamikiya&show_icons=true&show_owner=true&line_height=27&count_private=true&include_all_commits=true&title_color=bdddff&text_color=0e6b7f&icon_color=ef8539&bg_color=031a1f" alt="Dan's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=danBamikiya&show_icons=true&show_owner=true&line_height=27&count_private=true&include_all_commits=true&title_color=bdddff&text_color=1cd6ff&icon_color=ef8539&bg_color=031a1f" alt="Dan's GitHub Stats" />
 </a>
