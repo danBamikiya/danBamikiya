@@ -1,0 +1,10 @@
+/* @font-faces */
+@font-face {
+  font-family: "Intenci Demo";
+  src: url("../assets/fonts/Intenci/IntenciDemoRegular.ttf");
+}
+
+@font-face {
+  font-family: "Orbitron";
+  src: url("../assets/fonts/Orbitron/Orbitron-VariableFont_wght.ttf");
+}
