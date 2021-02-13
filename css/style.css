@@ -1,0 +1,124 @@
+/* import fonts from fonts.css file */
+@import url(./fonts.css);
+
+body {
+  margin: 0;
+  overflow: hidden;
+  font-family: "Intenci Demo", sans-serif;
+  color: gold;
+  font-size: xx-large;
+  height: 100vh;
+  cursor: none;
+}
+
+.container {
+  position: fixed;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+h1 {
+  text-shadow: -5px -5px 12px rgba(255, 215, 0, 0.4),
+    5px 5px 12px rgba(0, 0, 0, 0.08);
+}
+
+h1::selection,
+h3 > span::selection,
+h4::selection {
+  background-color: rgba(255, 214, 0, 0.4);
+  color: white;
+}
+
+.cursor {
+  width: 30px;
+  height: 30px;
+  border: 1px solid white;
+  border-radius: 50%;
+  position: fixed;
+  pointer-events: none;
+  transition-timing-function: ease-out;
+  animation: cursorAnim 0.5s infinite alternate;
+}
+
+.cursor::after {
+  content: "";
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  border: 8px solid grey;
+  border-radius: 50%;
+  opacity: 0.5;
+  top: -8px;
+  left: -8px;
+  animation: cursorAnim2 0.5s infinite alternate;
+}
+
+.expand {
+  animation: cursorAnim3 0.5s forwards;
+  border: 1px solid rgb(224, 229, 235);
+}
+
+@keyframes cursorAnim {
+  from {
+    transform: scale(1);
+  }
+  to {
+    transform: scale(0.7);
+  }
+}
+
+@keyframes cursorAnim2 {
+  from {
+    transform: scale(1);
+  }
+  to {
+    transform: scale(0.5);
+  }
+}
+
+@keyframes cursorAnim3 {
+  0% {
+    transform: scale(1);
+    opacity: 0;
+  }
+  50% {
+    transform: scale(3);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+h4 {
+  font-family: Orbitron, sans-serif;
+  font-size: medium;
+  text-align: center;
+  margin-top: 50px;
+}
+
+h3 {
+  text-align: center;
+  font-size: x-large;
+}
+
+/* cursor for the typewriter effect */
+.txt-type > .txt {
+  border-right: 1px solid #fff;
+}
+
+.blink {
+  animation: blink 0.8s forwards;
+}
+
+@keyframes blink {
+  0% {
+    border-right-color: #fff;
+  }
+  50% {
+    border-right-color: rgba(255, 255, 255, 0);
+  }
+  100% {
+    border-right-color: #fff;
+  }
+}
