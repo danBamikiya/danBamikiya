@@ -11,7 +11,7 @@
 
 <!-- Greeting -->
 
-### Hey-lo! Dan Bamikiya here <img src="https://raw.githubusercontent.com/danBamikiya/danBamikiya/main/wave.gif" width="30px">
+### Hey-lo! Dan Bamikiya here <img src="https://raw.githubusercontent.com/danBamikiya/danBamikiya/main/wave.gif" width="30px"></h1>
 
 
 ---
@@ -53,6 +53,8 @@ Other interests: Nanotechnology, AI
 🏸 Badminton  🏓 Table Tennis 🏹 Archery
 
 ### 📈 Github Stats
+
+<img src="https://komarev.com/ghpvc/?username=danBamikiya&label=Profile%20views&color=00acee&style=flat" alt="danBamikiya" />
 
   ---
 
