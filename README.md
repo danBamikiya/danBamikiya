@@ -20,6 +20,11 @@
 <!-- About -->
 I'm a Frontend Software Engineer. I have a passion for sleek user-friendly design and I love writing nicely architectured, clean and maintainable code, working with other people on solving tough problems, and learning new things along the way.
 
+I STAND for: 
+            - Diversity(especially neurodiversity)
+            - Inclusion
+            - Equality             
+
 Other interests: Nanotechnology, AI
 
 
