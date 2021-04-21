@@ -9,6 +9,8 @@
 <a href="https://www.linkedin.com/in/dan-bamikiya/"><img height="30" src="https://github.com/danBamikiya/danBamikiya/blob/main/linkedin.png?raw=true"></a>
 </p>
 
+**<p align='center'>This header 👆 is actually [live](https://danbamikiya.github.io/danBamikiya/)!</p>**
+
 <!-- Greeting -->
 
 ### Hey-lo! Dan Bamikiya here <img src="https://raw.githubusercontent.com/danBamikiya/danBamikiya/main/wave.gif" width="30px"></h1>
