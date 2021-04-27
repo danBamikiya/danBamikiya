@@ -1,0 +1,11 @@
+# Set update schedule for GitHub Actions
+
+version: 2
+updates:
+  - directory: "/"
+    open-pull-requests-limit: 10
+    package-ecosystem: "github-actions"
+    rebase-strategy: disabled
+    schedule:
+      interval: weekly
+      timezone: 05:00 UTC
