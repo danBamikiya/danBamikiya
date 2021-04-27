@@ -81,6 +81,13 @@ Other interests: Nanotechnology, AI
 
 ### ⚡ My Recent Activity
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#1205](https://github.com/carbon-app/carbon/issues/1205) in [carbon-app/carbon](https://github.com/carbon-app/carbon)
+2. 💪 Opened PR [#28](https://github.com/actions-hub/gcloud/pull/28) in [actions-hub/gcloud](https://github.com/actions-hub/gcloud)
+3. ❗️ Opened issue [#342](https://github.com/docker/build-push-action/issues/342) in [docker/build-push-action](https://github.com/docker/build-push-action)
+4. 🗣 Commented on [#15](https://github.com/google-github-actions/get-secretmanager-secrets/issues/15) in [google-github-actions/get-secretmanager-secrets](https://github.com/google-github-actions/get-secretmanager-secrets)
+5. 💪 Opened PR [#15](https://github.com/google-github-actions/get-secretmanager-secrets/pull/15) in [google-github-actions/get-secretmanager-secrets](https://github.com/google-github-actions/get-secretmanager-secrets)
+6. 🗣 Commented on [#2479](https://github.com/babel/website/issues/2479) in [babel/website](https://github.com/babel/website)
+7. 🗣 Commented on [#2480](https://github.com/babel/website/issues/2480) in [babel/website](https://github.com/babel/website)
 <!--END_SECTION:activity-->
 
 <br />
