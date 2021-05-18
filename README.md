@@ -81,8 +81,8 @@ Other interests: Nanotechnology, AI
 
 ### ⚡ My Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5886](https://github.com/github/docs/pull/5886) in [github/docs](https://github.com/github/docs)
-2. 🗣 Commented on [#1205](https://github.com/carbon-app/carbon/issues/1205) in [carbon-app/carbon](https://github.com/carbon-app/carbon)
+1. 💪 Opened PR [#1516](https://github.com/rome/tools/pull/1516) in [rome/tools](https://github.com/rome/tools)
+2. 💪 Opened PR [#5886](https://github.com/github/docs/pull/5886) in [github/docs](https://github.com/github/docs)
 3. 💪 Opened PR [#28](https://github.com/actions-hub/gcloud/pull/28) in [actions-hub/gcloud](https://github.com/actions-hub/gcloud)
 4. 🗣 Commented on [#15](https://github.com/google-github-actions/get-secretmanager-secrets/issues/15) in [google-github-actions/get-secretmanager-secrets](https://github.com/google-github-actions/get-secretmanager-secrets)
 5. 💪 Opened PR [#15](https://github.com/google-github-actions/get-secretmanager-secrets/pull/15) in [google-github-actions/get-secretmanager-secrets](https://github.com/google-github-actions/get-secretmanager-secrets)
