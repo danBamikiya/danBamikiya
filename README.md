@@ -81,9 +81,9 @@ Other interests: Nanotechnology, AI
 
 ### ⚡ My Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1219](https://github.com/carbon-app/carbon/pull/1219) in [carbon-app/carbon](https://github.com/carbon-app/carbon)
-2. 💪 Opened PR [#1516](https://github.com/rome/tools/pull/1516) in [rome/tools](https://github.com/rome/tools)
-3. 💪 Opened PR [#28](https://github.com/actions-hub/gcloud/pull/28) in [actions-hub/gcloud](https://github.com/actions-hub/gcloud)
+1. 🗣 Commented on [#1816](https://github.com/microsoft/TypeScript-Website/issues/1816) in [microsoft/TypeScript-Website](https://github.com/microsoft/TypeScript-Website)
+2. 💪 Opened PR [#1219](https://github.com/carbon-app/carbon/pull/1219) in [carbon-app/carbon](https://github.com/carbon-app/carbon)
+3. 💪 Opened PR [#1516](https://github.com/rome/tools/pull/1516) in [rome/tools](https://github.com/rome/tools)
 4. 🗣 Commented on [#15](https://github.com/google-github-actions/get-secretmanager-secrets/issues/15) in [google-github-actions/get-secretmanager-secrets](https://github.com/google-github-actions/get-secretmanager-secrets)
 5. 💪 Opened PR [#15](https://github.com/google-github-actions/get-secretmanager-secrets/pull/15) in [google-github-actions/get-secretmanager-secrets](https://github.com/google-github-actions/get-secretmanager-secrets)
 <!--END_SECTION:activity-->
