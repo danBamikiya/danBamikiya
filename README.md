@@ -81,11 +81,11 @@ Other interests: Nanotechnology, AI
 
 ### ⚡ My Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#124479](https://github.com/microsoft/vscode/issues/124479) in [microsoft/vscode](https://github.com/microsoft/vscode)
-2. 🗣 Commented on [#1816](https://github.com/microsoft/TypeScript-Website/issues/1816) in [microsoft/TypeScript-Website](https://github.com/microsoft/TypeScript-Website)
-3. 💪 Opened PR [#1219](https://github.com/carbon-app/carbon/pull/1219) in [carbon-app/carbon](https://github.com/carbon-app/carbon)
-4. 💪 Opened PR [#1516](https://github.com/rome/tools/pull/1516) in [rome/tools](https://github.com/rome/tools)
-5. 💪 Opened PR [#15](https://github.com/google-github-actions/get-secretmanager-secrets/pull/15) in [google-github-actions/get-secretmanager-secrets](https://github.com/google-github-actions/get-secretmanager-secrets)
+1. ❗️ Opened issue [#872](https://github.com/microsoft/TypeScript-TmLanguage/issues/872) in [microsoft/TypeScript-TmLanguage](https://github.com/microsoft/TypeScript-TmLanguage)
+2. ❗️ Opened issue [#124479](https://github.com/microsoft/vscode/issues/124479) in [microsoft/vscode](https://github.com/microsoft/vscode)
+3. 🗣 Commented on [#1816](https://github.com/microsoft/TypeScript-Website/issues/1816) in [microsoft/TypeScript-Website](https://github.com/microsoft/TypeScript-Website)
+4. 💪 Opened PR [#1219](https://github.com/carbon-app/carbon/pull/1219) in [carbon-app/carbon](https://github.com/carbon-app/carbon)
+5. 💪 Opened PR [#1516](https://github.com/rome/tools/pull/1516) in [rome/tools](https://github.com/rome/tools)
 <!--END_SECTION:activity-->
 
 
