@@ -81,8 +81,8 @@ Other interests: Nanotechnology, AI
 
 ### ⚡ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#124479](https://github.com/microsoft/vscode/issues/124479) in [microsoft/vscode](https://github.com/microsoft/vscode)
-2. ❗️ Opened issue [#872](https://github.com/microsoft/TypeScript-TmLanguage/issues/872) in [microsoft/TypeScript-TmLanguage](https://github.com/microsoft/TypeScript-TmLanguage)
+1. 🗣 Commented on [#19](https://github.com/alamorre/react-chat-engine/issues/19) in [alamorre/react-chat-engine](https://github.com/alamorre/react-chat-engine)
+2. 🗣 Commented on [#19](https://github.com/alamorre/react-chat-engine/issues/19) in [alamorre/react-chat-engine](https://github.com/alamorre/react-chat-engine)
 3. ❗️ Opened issue [#124479](https://github.com/microsoft/vscode/issues/124479) in [microsoft/vscode](https://github.com/microsoft/vscode)
 4. 🗣 Commented on [#1816](https://github.com/microsoft/TypeScript-Website/issues/1816) in [microsoft/TypeScript-Website](https://github.com/microsoft/TypeScript-Website)
 5. 💪 Opened PR [#1219](https://github.com/carbon-app/carbon/pull/1219) in [carbon-app/carbon](https://github.com/carbon-app/carbon)
