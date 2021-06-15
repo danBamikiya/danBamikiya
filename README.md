@@ -81,9 +81,9 @@ Other interests: Nanotechnology, AI
 
 ### ⚡ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/alamorre/react-chat-engine/issues/19) in [alamorre/react-chat-engine](https://github.com/alamorre/react-chat-engine)
+1. ❗️ Closed issue [#927](https://github.com/anuraghazra/github-readme-stats/issues/927) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 2. 🗣 Commented on [#19](https://github.com/alamorre/react-chat-engine/issues/19) in [alamorre/react-chat-engine](https://github.com/alamorre/react-chat-engine)
-3. ❗️ Opened issue [#124479](https://github.com/microsoft/vscode/issues/124479) in [microsoft/vscode](https://github.com/microsoft/vscode)
+3. 🗣 Commented on [#19](https://github.com/alamorre/react-chat-engine/issues/19) in [alamorre/react-chat-engine](https://github.com/alamorre/react-chat-engine)
 4. 🗣 Commented on [#1816](https://github.com/microsoft/TypeScript-Website/issues/1816) in [microsoft/TypeScript-Website](https://github.com/microsoft/TypeScript-Website)
 5. 💪 Opened PR [#1219](https://github.com/carbon-app/carbon/pull/1219) in [carbon-app/carbon](https://github.com/carbon-app/carbon)
 <!--END_SECTION:activity-->
