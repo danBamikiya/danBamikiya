@@ -29,6 +29,9 @@ I STAND for:
 
 Other interests: Nanotechnology, AI
 
+I'm mostly writing Typescript, Sass, some Python, some Shell (or PowerShell if required) and HCL.
+Oh and some HTML (its cool too).
+
 
 ### 🔧 Technologies & Tools
 
