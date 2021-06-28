@@ -84,9 +84,9 @@ Oh and some HTML (its cool too).
 
 ### ⚡ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#29](https://github.com/actions-hub/gcloud/issues/29) in [actions-hub/gcloud](https://github.com/actions-hub/gcloud)
+1. ❗️ Opened issue [#1](https://github.com/danBamikiya/rekogniz-ai/issues/1) in [danBamikiya/rekogniz-ai](https://github.com/danBamikiya/rekogniz-ai)
 2. 🗣 Commented on [#29](https://github.com/actions-hub/gcloud/issues/29) in [actions-hub/gcloud](https://github.com/actions-hub/gcloud)
-3. ❗️ Closed issue [#927](https://github.com/anuraghazra/github-readme-stats/issues/927) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+3. 🗣 Commented on [#29](https://github.com/actions-hub/gcloud/issues/29) in [actions-hub/gcloud](https://github.com/actions-hub/gcloud)
 4. 🗣 Commented on [#1816](https://github.com/microsoft/TypeScript-Website/issues/1816) in [microsoft/TypeScript-Website](https://github.com/microsoft/TypeScript-Website)
 5. 💪 Opened PR [#1219](https://github.com/carbon-app/carbon/pull/1219) in [carbon-app/carbon](https://github.com/carbon-app/carbon)
 <!--END_SECTION:activity-->
