@@ -84,10 +84,10 @@ Oh and some HTML (its cool too).
 
 ### ⚡ My Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/danBamikiya/rekogniz-ai/issues/1) in [danBamikiya/rekogniz-ai](https://github.com/danBamikiya/rekogniz-ai)
-2. 🗣 Commented on [#29](https://github.com/actions-hub/gcloud/issues/29) in [actions-hub/gcloud](https://github.com/actions-hub/gcloud)
+1. ❗️ Opened issue [#7872](https://github.com/github/docs/issues/7872) in [github/docs](https://github.com/github/docs)
+2. ❗️ Opened issue [#1](https://github.com/danBamikiya/rekogniz-ai/issues/1) in [danBamikiya/rekogniz-ai](https://github.com/danBamikiya/rekogniz-ai)
 3. 🗣 Commented on [#29](https://github.com/actions-hub/gcloud/issues/29) in [actions-hub/gcloud](https://github.com/actions-hub/gcloud)
-4. 🗣 Commented on [#1816](https://github.com/microsoft/TypeScript-Website/issues/1816) in [microsoft/TypeScript-Website](https://github.com/microsoft/TypeScript-Website)
+4. 🗣 Commented on [#29](https://github.com/actions-hub/gcloud/issues/29) in [actions-hub/gcloud](https://github.com/actions-hub/gcloud)
 5. 💪 Opened PR [#1219](https://github.com/carbon-app/carbon/pull/1219) in [carbon-app/carbon](https://github.com/carbon-app/carbon)
 <!--END_SECTION:activity-->
 
