@@ -48,14 +48,14 @@ Oh and some HTML (its cool too).
 ![](https://img.shields.io/badge/Tool-Gatsby-informational?style=flat&logo=gatsby&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
 ![](https://img.shields.io/badge/Tool-Webpack-informational?style=flat&logo=webpack&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
 ![](https://img.shields.io/badge/Tool-Babel-informational?style=flat&logo=babel&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
-![](https://img.shields.io/badge/Tool-Jest-informational?style=flat&logo=jest&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
+<!-- ![](https://img.shields.io/badge/Tool-Jest-informational?style=flat&logo=jest&logoColor=white&labelColor=9c9c9c&color=cdd5e0) -->
 ![](https://img.shields.io/badge/Code-GraphQL-informational?style=flat&logo=graphql&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
 ![](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=heroku&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
 ![](https://img.shields.io/badge/Tool-Redis-informational?style=flat&logo=redis&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
-![](https://img.shields.io/badge/Tool-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
+<!-- ![](https://img.shields.io/badge/Tool-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&labelColor=9c9c9c&color=cdd5e0) -->
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
-![](https://img.shields.io/badge/Tool-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
+<!-- ![](https://img.shields.io/badge/Tool-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&labelColor=9c9c9c&color=cdd5e0) -->
 ![](https://img.shields.io/badge/Tool-Node.js-informational?style=flat&logo=node.js&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
 ![](https://img.shields.io/badge/Tool-Gulp.js-informational?style=flat&logo=gulp&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
 ![](https://img.shields.io/badge/Tool-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&labelColor=9c9c9c&color=cdd5e0)
@@ -65,7 +65,7 @@ Oh and some HTML (its cool too).
 
   ---
 
-🏸 Badminton  🏓 Table Tennis 🏹 Archery
+🏸 Badminton  🏓 Table Tennis
 
 ### 📈 Github Stats
 
