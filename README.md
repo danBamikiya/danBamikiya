@@ -82,6 +82,17 @@ Oh and some HTML (its cool too).
 <br />
 <br />
 
+<!-- <details open>
+<summary>All open source contributions</summary>
+<br />
+<a href="https://github.com/github/docs" title="Github Documentations" align="left"><img alt="Github Documentations" src="https://github-readme-stats.vercel.app/api/pin/?username=github&repo=docs&show_owner=true&show_icons=true&line_height=26&title_color=bdddff&text_color=1cd6ff&icon_color=ef8539&bg_color=031a1f" /></a>
+<a href="https://github.com/babel/website" title="Babel website" align="right"><img alt="Babel website" src="https://github-readme-stats.vercel.app/api/pin/?username=babel&repo=website&show_owner=true&show_icons=true&line_height=26&title_color=bdddff&text_color=1cd6ff&icon_color=ef8539&bg_color=031a1f" /></a>
+<a href="https://github.com/timdeschryver/vscode-chameleon" title="VSCode Chameleon" align="left"><img alt="VSCode Chameleon" src="https://github-readme-stats.vercel.app/api/pin/?username=timdeschryver&repo=vscode-chameleon&show_owner=true&show_icons=true&line_height=26&title_color=bdddff&text_color=1cd6ff&icon_color=ef8539&bg_color=031a1f" /></a>
+<a href="https://github.com/google-github-actions/get-secretmanager-secrets" title="Get SecretManager secrets" align="right"><img alt="Get SecretManager secrets" src="https://github-readme-stats.vercel.app/api/pin/?username=google-github-actions&repo=get-secretmanager-secrets&show_owner=true&show_icons=true&line_height=26&title_color=bdddff&text_color=1cd6ff&icon_color=ef8539&bg_color=031a1f" /></a>
+<a href="https://github.com/actions-hub/gcloud" title="GCloud action" align="left"><img alt="GCloud action" src="https://github-readme-stats.vercel.app/api/pin/?username=actions-hub&repo=gcloud&show_owner=true&show_icons=true&line_height=26&title_color=bdddff&text_color=1cd6ff&icon_color=ef8539&bg_color=031a1f" /></a>
+<a href="https://github.com/carbon-app/carbon" title="Carbon app" align="right"><img alt="Carbon app" src="https://github-readme-stats.vercel.app/api/pin/?username=carbon-app&repo=carbon&show_owner=true&show_icons=true&line_height=28&title_color=bdddff&text_color=1cd6ff&icon_color=ef8539&bg_color=031a1f" /></a>
+</details> -->
+
 ### ⚡ My Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1725](https://github.com/cloudflare/cloudflare-docs/issues/1725) in [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs)
