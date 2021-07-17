@@ -34,7 +34,7 @@ Oh and some HTML (its cool too).
 
 Stuffs I'm getting better at: Graphql
 
-Stuffs I want to learn this year: Go, Ansible
+Stuffs I want to learn this year: Electron, Go, Ansible
 
 ### 🔧 Technologies & Tools
 
