@@ -98,9 +98,9 @@ Stuffs I want to learn this year: Electron, Go, Ansible
 
 ### ⚡ My Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#13715](https://github.com/bazelbuild/bazel/pull/13715) in [bazelbuild/bazel](https://github.com/bazelbuild/bazel)
-2. 🗣 Commented on [#3](https://github.com/bradtraversy/passgen/issues/3) in [bradtraversy/passgen](https://github.com/bradtraversy/passgen)
-3. 💪 Opened PR [#3](https://github.com/bradtraversy/passgen/pull/3) in [bradtraversy/passgen](https://github.com/bradtraversy/passgen)
+1. 💪 Opened PR [#215](https://github.com/lauragift21/giftegwuenu.dev/pull/215) in [lauragift21/giftegwuenu.dev](https://github.com/lauragift21/giftegwuenu.dev)
+2. ❗️ Opened issue [#214](https://github.com/lauragift21/giftegwuenu.dev/issues/214) in [lauragift21/giftegwuenu.dev](https://github.com/lauragift21/giftegwuenu.dev)
+3. 💪 Opened PR [#13715](https://github.com/bazelbuild/bazel/pull/13715) in [bazelbuild/bazel](https://github.com/bazelbuild/bazel)
 4. 💪 Opened PR [#133](https://github.com/dogehousetv/web/pull/133) in [dogehousetv/web](https://github.com/dogehousetv/web)
 5. 💪 Opened PR [#7874](https://github.com/github/docs/pull/7874) in [github/docs](https://github.com/github/docs)
 <!--END_SECTION:activity-->
