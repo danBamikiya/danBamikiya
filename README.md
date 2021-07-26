@@ -98,11 +98,11 @@ Stuffs I want to learn this year: Electron, Go, Ansible
 
 ### ⚡ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/danBamikiya/dan-bamikiya-website/pull/8) in [danBamikiya/dan-bamikiya-website](https://github.com/danBamikiya/dan-bamikiya-website)
-2. ❗️ Closed issue [#3](https://github.com/danBamikiya/dan-bamikiya-website/issues/3) in [danBamikiya/dan-bamikiya-website](https://github.com/danBamikiya/dan-bamikiya-website)
-3. 💪 Opened PR [#8](https://github.com/danBamikiya/dan-bamikiya-website/pull/8) in [danBamikiya/dan-bamikiya-website](https://github.com/danBamikiya/dan-bamikiya-website)
-4. 🎉 Merged PR [#7](https://github.com/danBamikiya/dan-bamikiya-website/pull/7) in [danBamikiya/dan-bamikiya-website](https://github.com/danBamikiya/dan-bamikiya-website)
-5. ❗️ Closed issue [#5](https://github.com/danBamikiya/dan-bamikiya-website/issues/5) in [danBamikiya/dan-bamikiya-website](https://github.com/danBamikiya/dan-bamikiya-website)
+1. 💪 Opened PR [#3](https://github.com/danBamikiya/movie-finder/pull/3) in [danBamikiya/movie-finder](https://github.com/danBamikiya/movie-finder)
+2. 🎉 Merged PR [#2](https://github.com/danBamikiya/movie-finder/pull/2) in [danBamikiya/movie-finder](https://github.com/danBamikiya/movie-finder)
+3. 💪 Opened PR [#2](https://github.com/danBamikiya/movie-finder/pull/2) in [danBamikiya/movie-finder](https://github.com/danBamikiya/movie-finder)
+4. 🎉 Merged PR [#8](https://github.com/danBamikiya/dan-bamikiya-website/pull/8) in [danBamikiya/dan-bamikiya-website](https://github.com/danBamikiya/dan-bamikiya-website)
+5. ❗️ Closed issue [#3](https://github.com/danBamikiya/dan-bamikiya-website/issues/3) in [danBamikiya/dan-bamikiya-website](https://github.com/danBamikiya/dan-bamikiya-website)
 <!--END_SECTION:activity-->
 
 
