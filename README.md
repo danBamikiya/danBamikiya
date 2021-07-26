@@ -98,11 +98,11 @@ Stuffs I want to learn this year: Electron, Go, Ansible
 
 ### ⚡ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#215](https://github.com/lauragift21/giftegwuenu.dev/issues/215) in [lauragift21/giftegwuenu.dev](https://github.com/lauragift21/giftegwuenu.dev)
-2. 🗣 Commented on [#214](https://github.com/lauragift21/giftegwuenu.dev/issues/214) in [lauragift21/giftegwuenu.dev](https://github.com/lauragift21/giftegwuenu.dev)
-3. 💪 Opened PR [#215](https://github.com/lauragift21/giftegwuenu.dev/pull/215) in [lauragift21/giftegwuenu.dev](https://github.com/lauragift21/giftegwuenu.dev)
-4. ❗️ Opened issue [#214](https://github.com/lauragift21/giftegwuenu.dev/issues/214) in [lauragift21/giftegwuenu.dev](https://github.com/lauragift21/giftegwuenu.dev)
-5. 💪 Opened PR [#13715](https://github.com/bazelbuild/bazel/pull/13715) in [bazelbuild/bazel](https://github.com/bazelbuild/bazel)
+1. 💪 Opened PR [#2](https://github.com/danBamikiya/dan-bamikiya-website/pull/2) in [danBamikiya/dan-bamikiya-website](https://github.com/danBamikiya/dan-bamikiya-website)
+2. ❗️ Opened issue [#1](https://github.com/danBamikiya/dan-bamikiya-website/issues/1) in [danBamikiya/dan-bamikiya-website](https://github.com/danBamikiya/dan-bamikiya-website)
+3. 🗣 Commented on [#215](https://github.com/lauragift21/giftegwuenu.dev/issues/215) in [lauragift21/giftegwuenu.dev](https://github.com/lauragift21/giftegwuenu.dev)
+4. 🗣 Commented on [#214](https://github.com/lauragift21/giftegwuenu.dev/issues/214) in [lauragift21/giftegwuenu.dev](https://github.com/lauragift21/giftegwuenu.dev)
+5. 💪 Opened PR [#215](https://github.com/lauragift21/giftegwuenu.dev/pull/215) in [lauragift21/giftegwuenu.dev](https://github.com/lauragift21/giftegwuenu.dev)
 <!--END_SECTION:activity-->
 
 
