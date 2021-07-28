@@ -98,11 +98,11 @@ Stuffs I want to learn this year: Electron, Go, Ansible
 
 ### ⚡ My Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#14](https://github.com/danBamikiya/dan-bamikiya-website/issues/14) in [danBamikiya/dan-bamikiya-website](https://github.com/danBamikiya/dan-bamikiya-website)
-2. ❗️ Opened issue [#13](https://github.com/danBamikiya/dan-bamikiya-website/issues/13) in [danBamikiya/dan-bamikiya-website](https://github.com/danBamikiya/dan-bamikiya-website)
-3. ❗️ Opened issue [#12](https://github.com/danBamikiya/dan-bamikiya-website/issues/12) in [danBamikiya/dan-bamikiya-website](https://github.com/danBamikiya/dan-bamikiya-website)
-4. ❗️ Opened issue [#11](https://github.com/danBamikiya/dan-bamikiya-website/issues/11) in [danBamikiya/dan-bamikiya-website](https://github.com/danBamikiya/dan-bamikiya-website)
-5. ❗️ Opened issue [#10](https://github.com/danBamikiya/dan-bamikiya-website/issues/10) in [danBamikiya/dan-bamikiya-website](https://github.com/danBamikiya/dan-bamikiya-website)
+1. 🎉 Merged PR [#1](https://github.com/danBamikiya/soundchat/pull/1) in [danBamikiya/soundchat](https://github.com/danBamikiya/soundchat)
+2. 💪 Opened PR [#1](https://github.com/danBamikiya/soundchat/pull/1) in [danBamikiya/soundchat](https://github.com/danBamikiya/soundchat)
+3. ❗️ Opened issue [#14](https://github.com/danBamikiya/dan-bamikiya-website/issues/14) in [danBamikiya/dan-bamikiya-website](https://github.com/danBamikiya/dan-bamikiya-website)
+4. ❗️ Opened issue [#13](https://github.com/danBamikiya/dan-bamikiya-website/issues/13) in [danBamikiya/dan-bamikiya-website](https://github.com/danBamikiya/dan-bamikiya-website)
+5. ❗️ Opened issue [#12](https://github.com/danBamikiya/dan-bamikiya-website/issues/12) in [danBamikiya/dan-bamikiya-website](https://github.com/danBamikiya/dan-bamikiya-website)
 <!--END_SECTION:activity-->
 
 
