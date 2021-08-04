@@ -98,11 +98,11 @@ Stuffs I want to learn this year: Electron, Go, Ansible
 
 ### ⚡ My Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#5018](https://github.com/gitpod-io/gitpod/issues/5018) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
-2. 🗣 Commented on [#5018](https://github.com/gitpod-io/gitpod/issues/5018) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
-3. ❗️ Opened issue [#5027](https://github.com/gitpod-io/gitpod/issues/5027) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
-4. 🗣 Commented on [#5020](https://github.com/gitpod-io/gitpod/issues/5020) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
-5. ❗️ Opened issue [#5018](https://github.com/gitpod-io/gitpod/issues/5018) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
+1. 🗣 Commented on [#5027](https://github.com/gitpod-io/gitpod/issues/5027) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
+2. ❗️ Closed issue [#5018](https://github.com/gitpod-io/gitpod/issues/5018) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
+3. 🗣 Commented on [#5018](https://github.com/gitpod-io/gitpod/issues/5018) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
+4. ❗️ Opened issue [#5027](https://github.com/gitpod-io/gitpod/issues/5027) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
+5. 🗣 Commented on [#5020](https://github.com/gitpod-io/gitpod/issues/5020) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
 <!--END_SECTION:activity-->
 
 
