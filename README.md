@@ -99,10 +99,10 @@ Stuffs I want to learn this year: Electron, Go, Ansible
 ### ⚡ My Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#5160](https://github.com/gitpod-io/gitpod/issues/5160) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
-2. ❗️ Closed issue [#5160](https://github.com/gitpod-io/gitpod/issues/5160) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
-3. 🗣 Commented on [#5160](https://github.com/gitpod-io/gitpod/issues/5160) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
-4. ❗️ Opened issue [#5160](https://github.com/gitpod-io/gitpod/issues/5160) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
-5. ❗️ Opened issue [#15](https://github.com/benawad/astralfans-landing/issues/15) in [benawad/astralfans-landing](https://github.com/benawad/astralfans-landing)
+2. 🗣 Commented on [#5160](https://github.com/gitpod-io/gitpod/issues/5160) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
+3. ❗️ Closed issue [#5160](https://github.com/gitpod-io/gitpod/issues/5160) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
+4. 🗣 Commented on [#5160](https://github.com/gitpod-io/gitpod/issues/5160) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
+5. ❗️ Opened issue [#5160](https://github.com/gitpod-io/gitpod/issues/5160) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
 <!--END_SECTION:activity-->
 
 
