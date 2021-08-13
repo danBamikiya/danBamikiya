@@ -99,10 +99,10 @@ Stuffs I want to learn this year: Electron, Go, Ansible
 ### ⚡ My Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#4192](https://github.com/gitpod-io/gitpod/issues/4192) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
-2. 🗣 Commented on [#5160](https://github.com/gitpod-io/gitpod/issues/5160) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
+2. 🗣 Commented on [#4192](https://github.com/gitpod-io/gitpod/issues/4192) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
 3. 🗣 Commented on [#5160](https://github.com/gitpod-io/gitpod/issues/5160) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
-4. ❗️ Closed issue [#5160](https://github.com/gitpod-io/gitpod/issues/5160) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
-5. 🗣 Commented on [#5160](https://github.com/gitpod-io/gitpod/issues/5160) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
+4. 🗣 Commented on [#5160](https://github.com/gitpod-io/gitpod/issues/5160) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
+5. ❗️ Closed issue [#5160](https://github.com/gitpod-io/gitpod/issues/5160) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
 <!--END_SECTION:activity-->
 
 
