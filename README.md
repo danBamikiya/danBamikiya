@@ -98,10 +98,10 @@ Stuffs I want to learn this year: Electron, Go, Ansible
 
 ### ⚡ My Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/danBamikiya/movie-finder/pull/8) in [danBamikiya/movie-finder](https://github.com/danBamikiya/movie-finder)
-2. 🗣 Commented on [#5263](https://github.com/gitpod-io/gitpod/issues/5263) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
-3. ❗️ Opened issue [#5263](https://github.com/gitpod-io/gitpod/issues/5263) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
-4. ❗️ Closed issue [#1](https://github.com/danBamikiya/movie-finder/issues/1) in [danBamikiya/movie-finder](https://github.com/danBamikiya/movie-finder)
+1. 🎉 Merged PR [#8](https://github.com/danBamikiya/movie-finder/pull/8) in [danBamikiya/movie-finder](https://github.com/danBamikiya/movie-finder)
+2. 💪 Opened PR [#8](https://github.com/danBamikiya/movie-finder/pull/8) in [danBamikiya/movie-finder](https://github.com/danBamikiya/movie-finder)
+3. 🗣 Commented on [#5263](https://github.com/gitpod-io/gitpod/issues/5263) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
+4. ❗️ Opened issue [#5263](https://github.com/gitpod-io/gitpod/issues/5263) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
 5. 🎉 Merged PR [#6](https://github.com/danBamikiya/movie-finder/pull/6) in [danBamikiya/movie-finder](https://github.com/danBamikiya/movie-finder)
 <!--END_SECTION:activity-->
 
