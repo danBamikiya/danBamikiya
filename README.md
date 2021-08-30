@@ -123,7 +123,7 @@ Stuffs I want to learn this year: Electron, Go, Ansible
             </li>
             <li>Code - <a href="https://github.com/actions-hub/gcloud">actions-hub/gcloud</a> - A GitHub Action for interacting with Google Cloud Platform (GCP) in CI/CD workflows - <a href="https://github.com/actions-hub/gcloud/pulls?q=is%3Apr+author%3AdanBamikiya">Contributions</a>
             </li>
-            <li>Code - <a href="https://github.com/google-github-actions/get-secretmanager-secrets">google-github-actions/get-secretmanager-secrets</a> - A GitHub Action to fetch secrets from Google Secret Manager in CI/CD workflows  - <a href="https://github.com/bazelbuild/bazel/pulls?q=is%3Apr+author%3AdanBamikiya">Contributions</a>
+            <li>Code - <a href="https://github.com/google-github-actions/get-secretmanager-secrets">google-github-actions/get-secretmanager-secrets</a> - A GitHub Action to fetch secrets from Google Secret Manager in CI/CD workflows  - <a href="https://github.com/google-github-actions/get-secretmanager-secrets/pulls?q=is%3Apr+author%3AdanBamikiya">Contributions</a>
             </li>
             <li>Ideas - <a href="https://github.com/benawad/dogehouse">benawad/dogehouse</a> - A social audio app where users can communicate in audio chat rooms
             </li>
