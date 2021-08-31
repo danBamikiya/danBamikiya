@@ -110,7 +110,7 @@ Stuffs I want to learn this year: Electron, Go, Ansible
 <br />
 
 <details open>
-            <summary>I've made some <b>open source</b> contributions (prs + ideas)</summary>
+            <summary>I've made some <b>open source</b> contributions too! (prs + ideas)</summary>
             <br />
             <ul>
             <li>Code - <a href="https://github.com/docker/docker.github.io">docker/docker.github.io</a> - Official Docker Documentation Website - <a href="https://github.com/docker/docker.github.io/pulls?q=is%3Apr+author%3AdanBamikiya">Contributions</a>
