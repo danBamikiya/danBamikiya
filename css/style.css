@@ -9,6 +9,11 @@ body {
   cursor: none;
 }
 
+canvas {
+  width: 100% !important;
+  height: 100% !important;
+}
+
 .container {
   position: fixed;
   top: 60%;
