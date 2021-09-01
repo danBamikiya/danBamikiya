@@ -98,11 +98,11 @@ Stuffs I want to learn this year: Electron, Go, Ansible
 
 ### ⚡ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/danBamikiya/dan-bamikiya-website/pull/19) in [danBamikiya/dan-bamikiya-website](https://github.com/danBamikiya/dan-bamikiya-website)
-2. 💪 Opened PR [#19](https://github.com/danBamikiya/dan-bamikiya-website/pull/19) in [danBamikiya/dan-bamikiya-website](https://github.com/danBamikiya/dan-bamikiya-website)
-3. 🎉 Merged PR [#18](https://github.com/danBamikiya/dan-bamikiya-website/pull/18) in [danBamikiya/dan-bamikiya-website](https://github.com/danBamikiya/dan-bamikiya-website)
-4. ❗️ Closed issue [#17](https://github.com/danBamikiya/dan-bamikiya-website/issues/17) in [danBamikiya/dan-bamikiya-website](https://github.com/danBamikiya/dan-bamikiya-website)
-5. 💪 Opened PR [#18](https://github.com/danBamikiya/dan-bamikiya-website/pull/18) in [danBamikiya/dan-bamikiya-website](https://github.com/danBamikiya/dan-bamikiya-website)
+1. 🎉 Merged PR [#20](https://github.com/danBamikiya/dan-bamikiya-website/pull/20) in [danBamikiya/dan-bamikiya-website](https://github.com/danBamikiya/dan-bamikiya-website)
+2. ❗️ Closed issue [#6](https://github.com/danBamikiya/dan-bamikiya-website/issues/6) in [danBamikiya/dan-bamikiya-website](https://github.com/danBamikiya/dan-bamikiya-website)
+3. 💪 Opened PR [#20](https://github.com/danBamikiya/dan-bamikiya-website/pull/20) in [danBamikiya/dan-bamikiya-website](https://github.com/danBamikiya/dan-bamikiya-website)
+4. 🗣 Commented on [#6](https://github.com/danBamikiya/dan-bamikiya-website/issues/6) in [danBamikiya/dan-bamikiya-website](https://github.com/danBamikiya/dan-bamikiya-website)
+5. 🎉 Merged PR [#19](https://github.com/danBamikiya/dan-bamikiya-website/pull/19) in [danBamikiya/dan-bamikiya-website](https://github.com/danBamikiya/dan-bamikiya-website)
 <!--END_SECTION:activity-->
 
 
