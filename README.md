@@ -112,7 +112,7 @@ Stuffs I want to learn this year: Electron, Go, Ansible
 <details open>
             <summary>I've made some <b>open source</b> contributions too! (pull requests + ideas)</summary>
             <br />
-            <ul>
+            <ol>
             <li>Code - <a href="https://github.com/docker/docker.github.io">docker/docker.github.io</a> - Official Docker Documentation Website - <a href="https://github.com/docker/docker.github.io/pulls?q=is%3Apr+author%3AdanBamikiya">Contributions</a>
             </li>   
             <li>Code - <a href="https://github.com/babel/website">babel/website</a> - Official BabelJS Documentation Website - <a href="https://github.com/babel/website/pulls?q=is%3Apr+author%3AdanBamikiya">Contributions</a>
@@ -138,6 +138,6 @@ Stuffs I want to learn this year: Electron, Go, Ansible
             <li>Code - <a href="https://github.com/dogehousetv/web">dogehousetv/web</a> - The frontend for the revived version of <a href="https://github.com/benawad/dogehouse">benawad/dogehouse</a> - <a href="https://github.com/dogehousetv/web/pulls?q=is%3Apr+author%3AdanBamikiya">Contributions</a>
             </li>
             </li>
-            </ul>
+            </ol>
 </details>
 
