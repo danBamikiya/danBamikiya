@@ -99,9 +99,9 @@ Stuffs I want to learn this year: Electron, Go, Ansible
 ### ⚡ My Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#13452](https://github.com/docker/docker.github.io/issues/13452) in [docker/docker.github.io](https://github.com/docker/docker.github.io)
-2. 🗣 Commented on [#13433](https://github.com/docker/docker.github.io/issues/13433) in [docker/docker.github.io](https://github.com/docker/docker.github.io)
-3. 💪 Opened PR [#1](https://github.com/thaJeztah/docker.github.io/pull/1) in [thaJeztah/docker.github.io](https://github.com/thaJeztah/docker.github.io)
-4. 🗣 Commented on [#13452](https://github.com/docker/docker.github.io/issues/13452) in [docker/docker.github.io](https://github.com/docker/docker.github.io)
+2. 🗣 Commented on [#13452](https://github.com/docker/docker.github.io/issues/13452) in [docker/docker.github.io](https://github.com/docker/docker.github.io)
+3. 🗣 Commented on [#13433](https://github.com/docker/docker.github.io/issues/13433) in [docker/docker.github.io](https://github.com/docker/docker.github.io)
+4. 💪 Opened PR [#1](https://github.com/thaJeztah/docker.github.io/pull/1) in [thaJeztah/docker.github.io](https://github.com/thaJeztah/docker.github.io)
 5. 🗣 Commented on [#13452](https://github.com/docker/docker.github.io/issues/13452) in [docker/docker.github.io](https://github.com/docker/docker.github.io)
 <!--END_SECTION:activity-->
 
