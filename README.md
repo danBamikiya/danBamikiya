@@ -98,9 +98,9 @@ Stuffs I want to learn this year: Electron, Go, Ansible
 
 ### ⚡ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/danBamikiya/dan-bamikiya-website/pull/23) in [danBamikiya/dan-bamikiya-website](https://github.com/danBamikiya/dan-bamikiya-website)
-2. 💪 Opened PR [#23](https://github.com/danBamikiya/dan-bamikiya-website/pull/23) in [danBamikiya/dan-bamikiya-website](https://github.com/danBamikiya/dan-bamikiya-website)
-3. 🗣 Commented on [#13452](https://github.com/docker/docker.github.io/issues/13452) in [docker/docker.github.io](https://github.com/docker/docker.github.io)
+1. ❗️ Opened issue [#10](https://github.com/danBamikiya/movie-finder/issues/10) in [danBamikiya/movie-finder](https://github.com/danBamikiya/movie-finder)
+2. 🎉 Merged PR [#23](https://github.com/danBamikiya/dan-bamikiya-website/pull/23) in [danBamikiya/dan-bamikiya-website](https://github.com/danBamikiya/dan-bamikiya-website)
+3. 💪 Opened PR [#23](https://github.com/danBamikiya/dan-bamikiya-website/pull/23) in [danBamikiya/dan-bamikiya-website](https://github.com/danBamikiya/dan-bamikiya-website)
 4. 🗣 Commented on [#13452](https://github.com/docker/docker.github.io/issues/13452) in [docker/docker.github.io](https://github.com/docker/docker.github.io)
 5. 🗣 Commented on [#13452](https://github.com/docker/docker.github.io/issues/13452) in [docker/docker.github.io](https://github.com/docker/docker.github.io)
 <!--END_SECTION:activity-->
