@@ -141,3 +141,4 @@ Stuffs I want to learn this year: Electron, Go, Ansible
             </ol>
 </details>
 
+**[#BlackWomenInTechMatter](https://www.bgitnigeria.org/)**
