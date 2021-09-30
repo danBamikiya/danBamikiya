@@ -1,6 +1,6 @@
 <!-- Header gif -->
 
-# <p align='center'>![Hey there, I'm Dan. I'm a software developer. Check out my work](https://raw.githubusercontent.com/danBamikiya/danBamikiya/main/dan_bio1.gif "Dan Bamikiya")<p>
+# <p align='center'>[![Hey there, I'm Dan. I'm a software developer. Check out my work](https://raw.githubusercontent.com/danBamikiya/danBamikiya/main/dan_bio1.gif "Dan Bamikiya")](https://danbamikiya.github.io/danBamikiya/)<p>
 <!-- <p align='center'><img src="https://raw.githubusercontent.com/danBamikiya/danBamikiya/main/dan_bio1.gif"></p> -->
 
 <!-- Social links -->
@@ -125,9 +125,9 @@ Stuffs I want to learn this year: Electron, Go, Ansible, Elixir
             </li>
             <li>Code - <a href="https://github.com/google-github-actions/get-secretmanager-secrets">google-github-actions/get-secretmanager-secrets</a> - A GitHub Action to fetch secrets from Google Secret Manager in CI/CD workflows  - <a href="https://github.com/google-github-actions/get-secretmanager-secrets/pulls?q=is%3Apr+author%3AdanBamikiya">Contributions</a>
             </li>
-            <li>Ideas - <a href="https://github.com/benawad/dogehouse">benawad/dogehouse</a> - A social audio app where users can communicate in audio chat rooms
+            <li>Ideas (effects+animations) - <a href="https://github.com/benawad/dogehouse">benawad/dogehouse</a> - A social audio app where users can communicate in audio chat rooms
             </li>
-            <li>Ideas - <a href="https://github.com/carbon-app/carbon">carbon-app/carbon</a> - A web app to create and share beautiful images of your source code
+            <li>Ideas (autocomplete brackets) - <a href="https://github.com/carbon-app/carbon">carbon-app/carbon</a> - A web app to create and share beautiful images of your source code
             </li>
             <li>Code - <a href="https://github.com/lauragift21/giftegwuenu.dev">lauragift21/giftegwuenu.dev</a> - <a href="https://github.com/lauragift21" >@lauragift21</a>'s personal website - <a href="https://github.com/lauragift21/giftegwuenu.dev/pulls?q=is%3Apr+author%3AdanBamikiya">Contributions</a>
             </li>
