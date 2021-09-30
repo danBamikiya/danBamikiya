@@ -141,4 +141,14 @@ Stuffs I want to learn this year: Electron, Go, Ansible, Elixir
             </ol>
 </details>
 
+<details>
+            <summary>Projects I'd <b>love</b> to contribute to</summary>
+            <br />
+            <ol>
+                        <li><a href="https://github.com/desktop/desktop">desktop/desktop</a> - Official Github Desktop app (Electron+Typescript+React+Sass)</li>
+                        <li><a href="https://github.com/argoproj/argo-cd">argoproj/argo-cd</a> - GitOps Continuous Delivery for Kubernetes (Go+Typescript+React+Sass)</li>
+                        <li><a href="https://github.com/microsoft/vscode">microsoft/vscode</a> - Official Visual Studio Code app (Electron+Typescript+CSS+HTML)</li>
+            </ol>
+</details>
+
 <h2><bold><a href="https://www.bgitnigeria.org/" target="_blank">#BlackWomenInTechMatter</a></bold></h2>
