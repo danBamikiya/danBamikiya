@@ -103,7 +103,7 @@ Stuffs I want to learn this year: Electron, Go, Ansible, Elixir
 <br />
 <br />
 
-<details open>
+<details id="contributions" open>
             <summary>I've made some <b>Open Source</b> contributions too! (pull requests + ideas)</summary>
             <br />
             <ol>
