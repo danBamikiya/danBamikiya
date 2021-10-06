@@ -70,12 +70,6 @@ Stuffs I want to learn this year: Electron, Go, Ansible, Elixir
 
 🏸 Badminton  🏓 Table Tennis
 
-### 📈 Github Stats
-
-<img src="https://komarev.com/ghpvc/?username=danBamikiya&label=Profile%20views&color=00acee&style=flat" alt="danBamikiya" />
-
-  ---
-  
 
 
 <a href="https://github.com/danBamikiya/danBamikiya">
