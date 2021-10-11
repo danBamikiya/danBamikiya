@@ -92,11 +92,11 @@ Stuffs I want to learn this year: Electron, Go, Ansible, Elixir
 
 ### ⚡ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13574](https://github.com/docker/docker.github.io/issues/13574) in [docker/docker.github.io](https://github.com/docker/docker.github.io)
-2. 💪 Opened PR [#13678](https://github.com/docker/docker.github.io/pull/13678) in [docker/docker.github.io](https://github.com/docker/docker.github.io)
-3. 🗣 Commented on [#13599](https://github.com/docker/docker.github.io/issues/13599) in [docker/docker.github.io](https://github.com/docker/docker.github.io)
-4. 🗣 Commented on [#13669](https://github.com/docker/docker.github.io/issues/13669) in [docker/docker.github.io](https://github.com/docker/docker.github.io)
-5. ❗️ Closed issue [#12](https://github.com/alexeyraspopov/picocolors/issues/12) in [alexeyraspopov/picocolors](https://github.com/alexeyraspopov/picocolors)
+1. 🗣 Commented on [#13536](https://github.com/docker/docker.github.io/issues/13536) in [docker/docker.github.io](https://github.com/docker/docker.github.io)
+2. 🗣 Commented on [#13538](https://github.com/docker/docker.github.io/issues/13538) in [docker/docker.github.io](https://github.com/docker/docker.github.io)
+3. 🗣 Commented on [#13574](https://github.com/docker/docker.github.io/issues/13574) in [docker/docker.github.io](https://github.com/docker/docker.github.io)
+4. 💪 Opened PR [#13678](https://github.com/docker/docker.github.io/pull/13678) in [docker/docker.github.io](https://github.com/docker/docker.github.io)
+5. 🗣 Commented on [#13599](https://github.com/docker/docker.github.io/issues/13599) in [docker/docker.github.io](https://github.com/docker/docker.github.io)
 <!--END_SECTION:activity-->
 
 
