@@ -92,11 +92,11 @@ Stuffs I want to learn this year: Electron, Go, Ansible, Elixir
 
 ### ⚡ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13574](https://github.com/docker/docker.github.io/issues/13574) in [docker/docker.github.io](https://github.com/docker/docker.github.io)
-2. 🗣 Commented on [#13538](https://github.com/docker/docker.github.io/issues/13538) in [docker/docker.github.io](https://github.com/docker/docker.github.io)
-3. 🗣 Commented on [#8758](https://github.com/docker/compose/issues/8758) in [docker/compose](https://github.com/docker/compose)
-4. 🗣 Commented on [#11159](https://github.com/github/docs/issues/11159) in [github/docs](https://github.com/github/docs)
-5. 🗣 Commented on [#6535](https://github.com/kubernetes/dashboard/issues/6535) in [kubernetes/dashboard](https://github.com/kubernetes/dashboard)
+1. 💪 Opened PR [#13710](https://github.com/docker/docker.github.io/pull/13710) in [docker/docker.github.io](https://github.com/docker/docker.github.io)
+2. 🗣 Commented on [#13574](https://github.com/docker/docker.github.io/issues/13574) in [docker/docker.github.io](https://github.com/docker/docker.github.io)
+3. 🗣 Commented on [#13538](https://github.com/docker/docker.github.io/issues/13538) in [docker/docker.github.io](https://github.com/docker/docker.github.io)
+4. 🗣 Commented on [#8758](https://github.com/docker/compose/issues/8758) in [docker/compose](https://github.com/docker/compose)
+5. 🗣 Commented on [#11159](https://github.com/github/docs/issues/11159) in [github/docs](https://github.com/github/docs)
 <!--END_SECTION:activity-->
 
 
