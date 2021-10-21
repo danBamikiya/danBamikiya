@@ -3,17 +3,17 @@
 # <p align='center'>[![Hey there, I'm Dan. I'm a software developer. Check out my work](https://raw.githubusercontent.com/danBamikiya/danBamikiya/main/dan_bio1.gif "Dan Bamikiya")](https://danbamikiya.github.io/danBamikiya/)<p>
 <!-- <p align='center'><img src="https://raw.githubusercontent.com/danBamikiya/danBamikiya/main/dan_bio1.gif"></p> -->
 
+ **<p align='center'>This header 👆 is actually [live](https://danbamikiya.github.io/danBamikiya/)!</p>**
+ 
 <!-- Social links -->
 <p align='center'>
 <a href="https://twitter.com/danBamikiya"><img height="30" src="https://github.com/danBamikiya/danBamikiya/blob/main/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/dan-bamikiya/"><img height="30" src="https://github.com/danBamikiya/danBamikiya/blob/main/linkedin.png?raw=true"></a>
 </p>
 
-**<p align='center'>This header 👆 is actually [live](https://danbamikiya.github.io/danBamikiya/)!</p>**
-
 <!-- Greeting -->
 
-### Hey-lo! Dan Bamikiya here <img src="https://raw.githubusercontent.com/danBamikiya/danBamikiya/main/wave.gif" width="30px"></h1>
+### Hey-lo! Dan Bamikiya here <img src="https://raw.githubusercontent.com/danBamikiya/danBamikiya/main/wave.gif" width="30px"> I'm looking for a job!
 
 
 ---
