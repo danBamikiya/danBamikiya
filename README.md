@@ -21,7 +21,7 @@
 <!-- About -->
 I'm a Frontend Software Engineer. I have a passion for sleek user-friendly design and I love writing nicely architectured, clean and maintainable code, working with other people on solving tough problems, and learning new things along the way.
 
-[Nat Friedman](https://github.com/nat) (CEO of GitHub) retweeted me. I'm famous 😎
+<!-- [Nat Friedman](https://github.com/nat) (CEO of GitHub) retweeted me. I'm famous 😎 -->
 
 I STAND for: 
             - Diversity
