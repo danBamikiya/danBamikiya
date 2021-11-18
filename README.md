@@ -6,9 +6,9 @@
  **<p align='center'>This header 👆 is actually [live](https://danbamikiya.github.io/danBamikiya/)!</p>**
  
 <!-- Social links -->
-<p align='center'>
+<!-- <p align='center'>
 <a href="https://twitter.com/danBamikiya"><img height="30" src="https://github.com/danBamikiya/danBamikiya/blob/main/twitter.png?raw=true"></a>&nbsp;&nbsp;
-</p>
+</p> -->
 
 <!-- Greeting -->
 
