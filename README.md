@@ -33,8 +33,6 @@ Other interests: DevOps, Nanotechnology, AI
 I'm mostly writing Typescript, Sass, some Python, some Shell (or PowerShell if needed) and some HCL.
 Oh and some HTML (its cool too).
 
-Stuffs I'm getting better at: Graphql
-
 Stuffs I want to learn: Electron, Go, Ansible, Rust
 
 ### 🔧 Technologies & Tools
