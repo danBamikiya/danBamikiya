@@ -1,25 +1,26 @@
 <!-- Header gif -->
 
 # <p align='center'>[![Hey there, I'm Dan. I'm a software developer. Check out my work](https://raw.githubusercontent.com/danBamikiya/danBamikiya/main/dan_bio1.gif "Dan Bamikiya")](https://danbamikiya.github.io/danBamikiya/)<p>
-<!-- <p align='center'><img src="https://raw.githubusercontent.com/danBamikiya/danBamikiya/main/dan_bio1.gif"></p> -->
 
  **<p align='center'>This header 👆 is actually [live](https://danbamikiya.github.io/danBamikiya/)!</p>**
- 
-<!-- Social links -->
-<!-- <p align='center'>
-<a href="https://twitter.com/danBamikiya"><img height="30" src="https://github.com/danBamikiya/danBamikiya/blob/main/twitter.png?raw=true"></a>&nbsp;&nbsp;
-</p> -->
+
 
 <!-- Greeting -->
 
-### Hey-lo! Dan Bamikiya here <img src="https://raw.githubusercontent.com/danBamikiya/danBamikiya/main/wave.gif" width="30px"> I'm looking for a job!
+### Hey-lo Dan Bamikiya here <img src="https://raw.githubusercontent.com/danBamikiya/danBamikiya/main/wave.gif" width="30px"> I'm looking for a job!
 
 
 ---
 
 
 <!-- About -->
-I'm a Frontend Software Engineer. I have a passion for sleek user-friendly design and I love writing nicely architectured, clean and maintainable code, working with other people on solving tough problems, and learning new things along the way.
+<strong>I</strong> 
+- am a frontend engineer
+- love
+   - writing nicely architectured code
+   - solving problems
+   - learning new things
+- am an <a href='http://nnedi.blogspot.com/2019/10/africanfuturism-defined.html'>#africanfuturism</a> advocate
 
 <!-- [Nat Friedman](https://github.com/nat) (CEO of GitHub) retweeted me. I'm famous 😎 -->
 
@@ -28,9 +29,9 @@ I STAND for:
             - Inclusion
             - Equality             
 
-Other interests: DevOps, Nanotechnology, AI
+Other interests: Nanotechnology, AI
 
-I'm mostly writing Typescript, Sass, some Python, some Shell (or PowerShell if needed) and some HCL.
+I'm mostly writing Typescript, Sass, some Python, some [Power]Shell and some HCL.
 Oh and some HTML (its cool too).
 
 Stuffs I want to learn: Electron, Go, Ansible, Rust
@@ -38,7 +39,11 @@ Stuffs I want to learn: Electron, Go, Ansible, Rust
 ### 🔧 Technologies & Tools
 
   ---
-
+<details>
+ <summary>👨🏾‍💻</summary>
+ 
+ <br />
+ 
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&labelColor=9c9c9c&color=adbac7)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&labelColor=9c9c9c&color=adbac7)
 ![](https://img.shields.io/badge/Code-Sass-informational?style=flat&logo=sass&logoColor=white&labelColor=9c9c9c&color=adbac7)
@@ -56,26 +61,31 @@ Stuffs I want to learn: Electron, Go, Ansible, Rust
 ![](https://img.shields.io/badge/Tool-Redis-informational?style=flat&logo=redis&logoColor=white&labelColor=9c9c9c&color=adbac7)
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&logoColor=white&labelColor=9c9c9c&color=adbac7)
 ![](https://img.shields.io/badge/Tool-Node.js-informational?style=flat&logo=node.js&logoColor=white&labelColor=9c9c9c&color=adbac7)
-![](https://img.shields.io/badge/Tool-Gulp.js-informational?style=flat&logo=gulp&logoColor=white&labelColor=9c9c9c&color=adbac7)
 ![](https://img.shields.io/badge/Tool-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&labelColor=9c9c9c&color=adbac7)
-<!-- ![](https://img.shields.io/badge/Tool-Jest-informational?style=flat&logo=jest&logoColor=white&labelColor=9c9c9c&color=adbac7) -->
+![](https://img.shields.io/badge/Tool-Jest-informational?style=flat&logo=jest&logoColor=white&labelColor=9c9c9c&color=adbac7)
 <!-- ![](https://img.shields.io/badge/Tool-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&labelColor=9c9c9c&color=adbac7) -->
 <!-- ![](https://img.shields.io/badge/Tool-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&labelColor=9c9c9c&color=adbac7) -->
-
+</details>
 
 ### ⚡ Hobbies
 
   ---
-
+  <details>
+ <summary>🧗‍♂️</summary>
+ <br />
 🏸 Badminton  🏓 Table Tennis
+ </details>
 
 
-
+<details>
+ <summary>📈</summary>
+ <br />
 <a href="https://github.com/danBamikiya/danBamikiya">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=danBamikiya&show_icons=true&show_owner=true&line_height=27&count_private=true&title_color=bdddff&text_color=1cd6ff&icon_color=ef8539&bg_color=031a1f" alt="Dan's GitHub Stats" />
 </a>
+</details>
 
-<br />
+  
 <br />
 
 <!-- <details open>
@@ -100,9 +110,8 @@ Stuffs I want to learn: Electron, Go, Ansible, Rust
 
 
 <br />
-<br />
 
-<details id="contributions" open>
+<details id="contributions">
             <summary>I've made some <b>Open Source</b> contributions too! (pull requests + ideas)</summary>
             <br />
             <ol>
