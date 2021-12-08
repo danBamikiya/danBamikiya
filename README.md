@@ -103,8 +103,8 @@ Stuffs I want to learn: Electron, Go, Ansible, Rust
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#13877](https://github.com/docker/docker.github.io/issues/13877) in [docker/docker.github.io](https://github.com/docker/docker.github.io)
 2. 🗣 Commented on [#13877](https://github.com/docker/docker.github.io/issues/13877) in [docker/docker.github.io](https://github.com/docker/docker.github.io)
-3. 🗣 Commented on [#13933](https://github.com/docker/docker.github.io/issues/13933) in [docker/docker.github.io](https://github.com/docker/docker.github.io)
-4. 🗣 Commented on [#13739](https://github.com/docker/docker.github.io/issues/13739) in [docker/docker.github.io](https://github.com/docker/docker.github.io)
+3. 🗣 Commented on [#13877](https://github.com/docker/docker.github.io/issues/13877) in [docker/docker.github.io](https://github.com/docker/docker.github.io)
+4. 🗣 Commented on [#13933](https://github.com/docker/docker.github.io/issues/13933) in [docker/docker.github.io](https://github.com/docker/docker.github.io)
 5. 🗣 Commented on [#13716](https://github.com/docker/docker.github.io/issues/13716) in [docker/docker.github.io](https://github.com/docker/docker.github.io)
 <!--END_SECTION:activity-->
 
