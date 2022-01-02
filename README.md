@@ -101,11 +101,11 @@ Stuffs I want to learn: Electron, Go, Ansible, Rust
 
 ### ⚡ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5263](https://github.com/gitpod-io/gitpod/issues/5263) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
-2. 🗣 Commented on [#13877](https://github.com/docker/docker.github.io/issues/13877) in [docker/docker.github.io](https://github.com/docker/docker.github.io)
+1. ❗️ Opened issue [#1](https://github.com/Zfinix/ens_dart/issues/1) in [Zfinix/ens_dart](https://github.com/Zfinix/ens_dart)
+2. 🗣 Commented on [#5263](https://github.com/gitpod-io/gitpod/issues/5263) in [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod)
 3. 🗣 Commented on [#13877](https://github.com/docker/docker.github.io/issues/13877) in [docker/docker.github.io](https://github.com/docker/docker.github.io)
 4. 🗣 Commented on [#13877](https://github.com/docker/docker.github.io/issues/13877) in [docker/docker.github.io](https://github.com/docker/docker.github.io)
-5. 🗣 Commented on [#13933](https://github.com/docker/docker.github.io/issues/13933) in [docker/docker.github.io](https://github.com/docker/docker.github.io)
+5. 🗣 Commented on [#13877](https://github.com/docker/docker.github.io/issues/13877) in [docker/docker.github.io](https://github.com/docker/docker.github.io)
 <!--END_SECTION:activity-->
 
 
