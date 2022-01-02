@@ -155,6 +155,6 @@ Stuffs I want to learn: Electron, Go, Ansible, Rust
             </ol>
 </details>
 
-<h2><bold><a href="https://www.bgitnigeria.org/" target="_blank">#BlackWomenInTechMatter</a></bold></h2>
+<!-- <h2><bold><a href="https://www.bgitnigeria.org/" target="_blank">#BlackWomenInTechMatter</a></bold></h2> -->
 
 <!-- [Someone called me a genius](https://www.linkedin.com/feed/update/urn:li:activity:6852679343093637120?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A6852679343093637120%2C6852763862253506560%29&replyUrn=urn%3Ali%3Acomment%3A%28activity%3A6852679343093637120%2C6852914428137086976%29) on LinkedIn. I guess I'm one 🤷‍♂️ -->
