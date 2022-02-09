@@ -70,7 +70,7 @@ Stuffs I want to learn: Electron, Go, Ansible, Rust
 <br />
 
 <details id="contributions" open>
-            <summary><b>Open Source</b> contributions</summary>
+   <summary><h3>Open Source</h3> <b>contributions</b></summary>
             <br />
             <ol>
             <li>Code - <a href="https://github.com/docker/docker.github.io">docker/docker.github.io</a> - Official Docker Documentation Website - <a href="https://github.com/docker/docker.github.io/pulls?q=is%3Apr+author%3AdanBamikiya">Contributions</a>
