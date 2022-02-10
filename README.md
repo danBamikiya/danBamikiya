@@ -141,11 +141,11 @@ Stuffs I want to learn: Electron, Go, Ansible, Rust
 
 ### ⚡ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14226](https://github.com/docker/docker.github.io/issues/14226) in [docker/docker.github.io](https://github.com/docker/docker.github.io)
-2. ❗️ Opened issue [#2](https://github.com/danBamikiya/danBamikiya/issues/2) in [danBamikiya/danBamikiya](https://github.com/danBamikiya/danBamikiya)
-3. 🗣 Commented on [#14176](https://github.com/docker/docker.github.io/issues/14176) in [docker/docker.github.io](https://github.com/docker/docker.github.io)
-4. 🗣 Commented on [#14235](https://github.com/docker/docker.github.io/issues/14235) in [docker/docker.github.io](https://github.com/docker/docker.github.io)
-5. 🗣 Commented on [#14182](https://github.com/docker/docker.github.io/issues/14182) in [docker/docker.github.io](https://github.com/docker/docker.github.io)
+1. 💪 Opened PR [#12884](https://github.com/mdn/content/pull/12884) in [mdn/content](https://github.com/mdn/content)
+2. 🗣 Commented on [#14226](https://github.com/docker/docker.github.io/issues/14226) in [docker/docker.github.io](https://github.com/docker/docker.github.io)
+3. ❗️ Opened issue [#2](https://github.com/danBamikiya/danBamikiya/issues/2) in [danBamikiya/danBamikiya](https://github.com/danBamikiya/danBamikiya)
+4. 🗣 Commented on [#14176](https://github.com/docker/docker.github.io/issues/14176) in [docker/docker.github.io](https://github.com/docker/docker.github.io)
+5. 🗣 Commented on [#14235](https://github.com/docker/docker.github.io/issues/14235) in [docker/docker.github.io](https://github.com/docker/docker.github.io)
 <!--END_SECTION:activity-->
 
 
