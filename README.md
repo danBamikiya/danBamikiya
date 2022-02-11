@@ -73,36 +73,66 @@ Stuffs I want to learn: Electron, Go, Ansible, Rust
    <summary><h3>Open Source</h3> <b>contributions</b></summary>
             <br />
             <ol>
+               <p>
             <li>Code - <a href="https://github.com/docker/docker.github.io">docker/docker.github.io</a> - Official Docker Documentation Website - <a href="https://github.com/docker/docker.github.io/pulls?q=is%3Apr+author%3AdanBamikiya">Contributions</a>
             </li>
+               </p>
+               <p>
+            <li>Code - <a href="https://github.com/mdn/content">mdn/content</a> - Official MDN Website - <a href="https://github.com/mdn/content/pulls?q=is%3Apr+author%3AdanBamikiya">Contributions</a>
+            </li>
+               </p>
+               <p>
              <li>Code - <a href="https://github.com/kubernetes/dashboard">kubernetes/dashboard</a> - Official Kubernetes Dashboard - <a href="https://github.com/kubernetes/dashboard/pulls?q=is%3Apr+author%3AdanBamikiya">Contributions</a>
             </li>
+               </p>
+               <p>
             <li>Code - <a href="https://github.com/babel/website">babel/website</a> - Official BabelJS Documentation Website - <a href="https://github.com/babel/website/pulls?q=is%3Apr+author%3AdanBamikiya">Contributions</a>
-            </li>  
+            </li> 
+               </p>
+               <p>
             <li>Code - <a href="https://github.com/github/docs">github/docs</a> - Official Github Documentation Website - <a href="https://github.com/github/docs/pulls?q=is%3Apr+author%3AdanBamikiya">Contributions</a>
             </li>
+               </p>
+               <p>
             <li>Ideas & Code - <a href="https://github.com/timdeschryver/vscode-chameleon">timdeschryver/vscode-chameleon</a> - A VS Code extension to randomize your theme, font and icons on startup - <a href="https://github.com/timdeschryver/vscode-chameleon/pulls?q=is%3Apr+author%3AdanBamikiya">Contributions</a>
             </li>
+               </p>
+               <p>
             <li>Code - <a href="https://github.com/actions-hub/gcloud">actions-hub/gcloud</a> - A GitHub Action for interacting with Google Cloud Platform (GCP) in CI/CD workflows - <a href="https://github.com/actions-hub/gcloud/pulls?q=is%3Apr+author%3AdanBamikiya">Contributions</a>
             </li>
+               </p>
+               <p>
             <li>Code - <a href="https://github.com/google-github-actions/get-secretmanager-secrets">google-github-actions/get-secretmanager-secrets</a> - A GitHub Action to fetch secrets from Google Secret Manager in CI/CD workflows  - <a href="https://github.com/google-github-actions/get-secretmanager-secrets/pulls?q=is%3Apr+author%3AdanBamikiya">Contributions</a>
             </li>
+               </p>
+               <p>
             <li>Ideas (effects+animations) - <a href="https://github.com/benawad/dogehouse">benawad/dogehouse</a> - A social audio app where users can communicate in audio chat rooms
             </li>
+               </p>
+               <p>
             <li>Ideas (autocomplete brackets) - <a href="https://github.com/carbon-app/carbon">carbon-app/carbon</a> - A web app to create and share beautiful images of your source code
             </li>
+               </p>
+               <p>
             <li>Code - <a href="https://github.com/lauragift21/giftegwuenu.dev">lauragift21/giftegwuenu.dev</a> - <a href="https://github.com/lauragift21" >@lauragift21</a>'s personal website - <a href="https://github.com/lauragift21/giftegwuenu.dev/pulls?q=is%3Apr+author%3AdanBamikiya">Contributions</a>
             </li>
+               </p>
+               <p>
             <li>Code - <a href="https://github.com/bradtraversy/passgen">bradtraversy/passgen</a> - A Node.js command line password generator - <a href="https://github.com/bradtraversy/passgen/pulls?q=is%3Apr+author%3AdanBamikiya">Contributions</a>
             </li>
+               </p>
+               <p>
             <li>Code - <a href="https://github.com/bazelbuild/bazel">bazelbuild/bazel</a> - A fast, scalable, multi-language and extensible build system - <a href="https://github.com/bazelbuild/bazel/pulls?q=is%3Apr+author%3AdanBamikiya">Contributions</a>
-            <li>Code - <a href="https://github.com/rome/tools">rome/tools</a> - A linter, compiler, bundler, and more. - <a href="https://github.com/rome/tools/pulls?q=is%3Apr+author%3AdanBamikiya">Contributions</a>
-            <li>Code - <a href="https://github.com/dogehousetv/web">dogehousetv/web</a> - The frontend for the revived version of <a href="https://github.com/benawad/dogehouse">benawad/dogehouse</a> - <a href="https://github.com/dogehousetv/web/pulls?q=is%3Apr+author%3AdanBamikiya">Contributions</a>
             </li>
+               </p>
+               <p>
+            <li>Code - <a href="https://github.com/rome/tools">rome/tools</a> - A linter, compiler, bundler, and more. - <a href="https://github.com/rome/tools/pulls?q=is%3Apr+author%3AdanBamikiya">Contributions</a>
+            </li>
+               </p>
+            <li>Code - <a href="https://github.com/dogehousetv/web">dogehousetv/web</a> - The frontend for the revived version of <a href="https://github.com/benawad/dogehouse">benawad/dogehouse</a> - <a href="https://github.com/dogehousetv/web/pulls?q=is%3Apr+author%3AdanBamikiya">Contributions</a>
             </li>
             </ol>
 </details>
-
 
 ### ⚡ Hobbies
 
