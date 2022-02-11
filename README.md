@@ -70,7 +70,7 @@ Stuffs I want to learn: Electron, Go, Ansible, Rust
 <br />
 
 <details id="contributions" open>
-   <summary><h3>Open Source</h3> <b>contributions</b></summary>
+   <summary><h3>Open Source contributions</h3></summary>
             <br />
             <ol>
                <p>
