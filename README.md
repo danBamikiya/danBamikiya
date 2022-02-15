@@ -7,7 +7,7 @@
 
 <!-- Greeting -->
 
-### Hey-lo Dan Bamikiya here <img src="https://raw.githubusercontent.com/danBamikiya/danBamikiya/main/wave.gif" width="30px"> I'm looking for a job!
+### Hey-lo Dan Bamikiya here <img src="https://raw.githubusercontent.com/danBamikiya/danBamikiya/main/wave.gif" width="30px">
 
 
 ---
