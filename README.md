@@ -78,18 +78,6 @@ Stuffs I want to learn: Electron, Go, Ansible, Rust
             </li>
                </p>
                <p>
-                  <li>Code - <a href="https://github.com/docker/compose">docker/compose</a> - Official Docker Compose Repo - <a href="https://github.com/docker/compose/pulls?q=is%3Apr+author%3AdanBamikiya">Contributions</a>
-            </li>
-                </p>
-               <p> 
-            <li>Code - <a href="https://github.com/mdn/content">mdn/content</a> - Official MDN Website - <a href="https://github.com/mdn/content/pulls?q=is%3Apr+author%3AdanBamikiya">Contributions</a>
-            </li>
-               </p>
-               <p>
-             <li>Code - <a href="https://github.com/kubernetes/dashboard">kubernetes/dashboard</a> - Official Kubernetes Dashboard - <a href="https://github.com/kubernetes/dashboard/pulls?q=is%3Apr+author%3AdanBamikiya">Contributions</a>
-            </li>
-               </p>
-               <p>
             <li>Code - <a href="https://github.com/babel/website">babel/website</a> - Official BabelJS Documentation Website - <a href="https://github.com/babel/website/pulls?q=is%3Apr+author%3AdanBamikiya">Contributions</a>
             </li> 
                </p>
@@ -123,6 +111,18 @@ Stuffs I want to learn: Electron, Go, Ansible, Rust
                </p>
                <p>
             <li>Code - <a href="https://github.com/bradtraversy/passgen">bradtraversy/passgen</a> - A Node.js command line password generator - <a href="https://github.com/bradtraversy/passgen/pulls?q=is%3Apr+author%3AdanBamikiya">Contributions</a>
+            </li>
+               </p>
+               <p>
+                  <li>Code - <a href="https://github.com/docker/compose">docker/compose</a> - Official Docker Compose Repo - <a href="https://github.com/docker/compose/pulls?q=is%3Apr+author%3AdanBamikiya">Contributions</a>
+            </li>
+                </p>
+               <p> 
+            <li>Code - <a href="https://github.com/mdn/content">mdn/content</a> - Official MDN Website - <a href="https://github.com/mdn/content/pulls?q=is%3Apr+author%3AdanBamikiya">Contributions</a>
+            </li>
+               </p>
+               <p>
+             <li>Code - <a href="https://github.com/kubernetes/dashboard">kubernetes/dashboard</a> - Official Kubernetes Dashboard - <a href="https://github.com/kubernetes/dashboard/pulls?q=is%3Apr+author%3AdanBamikiya">Contributions</a>
             </li>
                </p>
                <p>
