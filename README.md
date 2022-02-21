@@ -175,11 +175,11 @@ Stuffs I want to learn: Electron, Go, Ansible, Rust
 
 ### ⚡ My Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14257](https://github.com/docker/docker.github.io/pull/14257) in [docker/docker.github.io](https://github.com/docker/docker.github.io)
-2. 🗣 Commented on [#14255](https://github.com/docker/docker.github.io/issues/14255) in [docker/docker.github.io](https://github.com/docker/docker.github.io)
-3. 🗣 Commented on [#9164](https://github.com/docker/compose/issues/9164) in [docker/compose](https://github.com/docker/compose)
+1. 🗣 Commented on [#14256](https://github.com/docker/docker.github.io/issues/14256) in [docker/docker.github.io](https://github.com/docker/docker.github.io)
+2. 💪 Opened PR [#14257](https://github.com/docker/docker.github.io/pull/14257) in [docker/docker.github.io](https://github.com/docker/docker.github.io)
+3. 🗣 Commented on [#14255](https://github.com/docker/docker.github.io/issues/14255) in [docker/docker.github.io](https://github.com/docker/docker.github.io)
 4. 🗣 Commented on [#9164](https://github.com/docker/compose/issues/9164) in [docker/compose](https://github.com/docker/compose)
-5. 💪 Opened PR [#9164](https://github.com/docker/compose/pull/9164) in [docker/compose](https://github.com/docker/compose)
+5. 🗣 Commented on [#9164](https://github.com/docker/compose/issues/9164) in [docker/compose](https://github.com/docker/compose)
 <!--END_SECTION:activity-->
 
 
