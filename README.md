@@ -175,11 +175,11 @@ Stuffs I want to learn: Electron, Go, Ansible, Rust
 
 ### ⚡ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#51](https://github.com/danBamikiya/cuttlink/pull/51) in [danBamikiya/cuttlink](https://github.com/danBamikiya/cuttlink)
-2. 💪 Opened PR [#51](https://github.com/danBamikiya/cuttlink/pull/51) in [danBamikiya/cuttlink](https://github.com/danBamikiya/cuttlink)
-3. 🗣 Commented on [#14256](https://github.com/docker/docker.github.io/issues/14256) in [docker/docker.github.io](https://github.com/docker/docker.github.io)
-4. 💪 Opened PR [#14257](https://github.com/docker/docker.github.io/pull/14257) in [docker/docker.github.io](https://github.com/docker/docker.github.io)
-5. 🗣 Commented on [#14255](https://github.com/docker/docker.github.io/issues/14255) in [docker/docker.github.io](https://github.com/docker/docker.github.io)
+1. 💪 Opened PR [#1](https://github.com/danBamikiya/urban-store/pull/1) in [danBamikiya/urban-store](https://github.com/danBamikiya/urban-store)
+2. 🎉 Merged PR [#51](https://github.com/danBamikiya/cuttlink/pull/51) in [danBamikiya/cuttlink](https://github.com/danBamikiya/cuttlink)
+3. 💪 Opened PR [#51](https://github.com/danBamikiya/cuttlink/pull/51) in [danBamikiya/cuttlink](https://github.com/danBamikiya/cuttlink)
+4. 🗣 Commented on [#14256](https://github.com/docker/docker.github.io/issues/14256) in [docker/docker.github.io](https://github.com/docker/docker.github.io)
+5. 💪 Opened PR [#14257](https://github.com/docker/docker.github.io/pull/14257) in [docker/docker.github.io](https://github.com/docker/docker.github.io)
 <!--END_SECTION:activity-->
 
 
