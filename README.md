@@ -29,12 +29,12 @@ I STAND for:
             - Inclusion
             - Equality             
 
-Other interests: Speaking, Nanotechnology, Particle & Accelerator Physics
-
 I'm mostly writing Typescript, Sass, some Python, some [Power]Shell and some HCL.
 Oh and some HTML (its cool too).
 
-Stuffs I want to learn: Electron, Go, Ansible, Rust
+Other interests: Speaking, Nanotechnology, Particle & Accelerator Physics
+
+<!-- Stuffs I want to learn: Electron, Go, Ansible, Rust -->
 
 ### 🔧 Technologies & Tools
 
