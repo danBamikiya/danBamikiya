@@ -16,6 +16,7 @@
 <!-- About -->
 <strong>I</strong> 
 - am a frontend engineer
+- <a href='https://oscafest22.sched.com/speaker/danbamikiya?iframe=yes&w=100%&sidebar=yes&bg=no'>speaker</a> at <a href='https://festival.oscafrica.org/'>#OSCAFEST22</a>
 - love
    - writing nicely architectured code
    - solving problems
