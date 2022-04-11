@@ -30,16 +30,29 @@ I STAND for:
             - Inclusion
             - Equality   
             
-Tech Stack: Typescript, Sass, React, Redux, NextJS, VueJS, Shell
+Tech Stack 🔧 : 
+- Typescript
+- Sass
+- Styled Components
+- Tailwind CSS
+- React
+- Redux
+- VueJS
+- NextJS
+- Shell
+- Docker
+- Express JS
+- Jest
+- Vite & Vitest
 
 Other interests: Speaking, Nanotechnology, Particle & Accelerator Physics
 
 <!-- Stuffs I want to learn: Electron, Go, Ansible, Rust -->
 
-### 🔧 Technologies & Tools
+<!-- ### 🔧 Technologies & Tools
 
   ---
-<details open>
+<details>
  <summary>👨🏾‍💻</summary>
  
  <br />
