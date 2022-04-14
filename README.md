@@ -25,10 +25,9 @@
 
 <!-- [Nat Friedman](https://github.com/nat) (CEO of GitHub) retweeted me. I'm famous 😎 -->
 
-I STAND for: 
+<!-- I STAND for: 
             - Diversity
-            - Inclusion
-            - Equality   
+            - Inclusion    -->
             
 Tech Stack 🔧 : 
 - Typescript
