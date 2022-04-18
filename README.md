@@ -36,7 +36,6 @@ Tech Stack 🔧 :
 - Tailwind CSS
 - React
 - Redux
-- VueJS
 - NextJS
 - Shell
 - Docker
