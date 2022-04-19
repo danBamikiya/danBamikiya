@@ -186,11 +186,11 @@ Other interests: Speaking, Nanotechnology, Particle & Accelerator Physics
 
 ### ⚡ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/danBamikiya/urban-store/pull/1) in [danBamikiya/urban-store](https://github.com/danBamikiya/urban-store)
-2. 💪 Opened PR [#1](https://github.com/danBamikiya/urban-store/pull/1) in [danBamikiya/urban-store](https://github.com/danBamikiya/urban-store)
-3. 🎉 Merged PR [#51](https://github.com/danBamikiya/cuttlink/pull/51) in [danBamikiya/cuttlink](https://github.com/danBamikiya/cuttlink)
-4. 💪 Opened PR [#51](https://github.com/danBamikiya/cuttlink/pull/51) in [danBamikiya/cuttlink](https://github.com/danBamikiya/cuttlink)
-5. 🗣 Commented on [#14256](https://github.com/docker/docker.github.io/issues/14256) in [docker/docker.github.io](https://github.com/docker/docker.github.io)
+1. 🗣 Commented on [#1](https://github.com/Omni-GroundHogs/Front-end/issues/1) in [Omni-GroundHogs/Front-end](https://github.com/Omni-GroundHogs/Front-end)
+2. 🎉 Merged PR [#1](https://github.com/danBamikiya/urban-store/pull/1) in [danBamikiya/urban-store](https://github.com/danBamikiya/urban-store)
+3. 💪 Opened PR [#1](https://github.com/danBamikiya/urban-store/pull/1) in [danBamikiya/urban-store](https://github.com/danBamikiya/urban-store)
+4. 🎉 Merged PR [#51](https://github.com/danBamikiya/cuttlink/pull/51) in [danBamikiya/cuttlink](https://github.com/danBamikiya/cuttlink)
+5. 💪 Opened PR [#51](https://github.com/danBamikiya/cuttlink/pull/51) in [danBamikiya/cuttlink](https://github.com/danBamikiya/cuttlink)
 <!--END_SECTION:activity-->
 
 
