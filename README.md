@@ -187,10 +187,10 @@ Other interests: Speaking, Nanotechnology, Particle & Accelerator Physics
 ### ⚡ My Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#5156](https://github.com/Agoric/agoric-sdk/issues/5156) in [Agoric/agoric-sdk](https://github.com/Agoric/agoric-sdk)
-2. 🗣 Commented on [#1](https://github.com/Omni-GroundHogs/Front-end/issues/1) in [Omni-GroundHogs/Front-end](https://github.com/Omni-GroundHogs/Front-end)
-3. 🎉 Merged PR [#1](https://github.com/danBamikiya/urban-store/pull/1) in [danBamikiya/urban-store](https://github.com/danBamikiya/urban-store)
-4. 💪 Opened PR [#1](https://github.com/danBamikiya/urban-store/pull/1) in [danBamikiya/urban-store](https://github.com/danBamikiya/urban-store)
-5. 🎉 Merged PR [#51](https://github.com/danBamikiya/cuttlink/pull/51) in [danBamikiya/cuttlink](https://github.com/danBamikiya/cuttlink)
+2. 🗣 Commented on [#5156](https://github.com/Agoric/agoric-sdk/issues/5156) in [Agoric/agoric-sdk](https://github.com/Agoric/agoric-sdk)
+3. 🗣 Commented on [#5156](https://github.com/Agoric/agoric-sdk/issues/5156) in [Agoric/agoric-sdk](https://github.com/Agoric/agoric-sdk)
+4. 🗣 Commented on [#5156](https://github.com/Agoric/agoric-sdk/issues/5156) in [Agoric/agoric-sdk](https://github.com/Agoric/agoric-sdk)
+5. 🗣 Commented on [#1](https://github.com/Omni-GroundHogs/Front-end/issues/1) in [Omni-GroundHogs/Front-end](https://github.com/Omni-GroundHogs/Front-end)
 <!--END_SECTION:activity-->
 
 
