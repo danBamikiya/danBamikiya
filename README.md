@@ -184,15 +184,6 @@ Other interests: Speaking, Nanotechnology, Particle & Accelerator Physics
 <a href="https://github.com/carbon-app/carbon" title="Carbon app" align="right"><img alt="Carbon app" src="https://github-readme-stats.vercel.app/api/pin/?username=carbon-app&repo=carbon&show_owner=true&show_icons=true&line_height=28&title_color=bdddff&text_color=1cd6ff&icon_color=ef8539&bg_color=031a1f" /></a>
 </details> -->
 
-### ⚡ My Recent Activity
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#5156](https://github.com/Agoric/agoric-sdk/issues/5156) in [Agoric/agoric-sdk](https://github.com/Agoric/agoric-sdk)
-2. 🗣 Commented on [#5156](https://github.com/Agoric/agoric-sdk/issues/5156) in [Agoric/agoric-sdk](https://github.com/Agoric/agoric-sdk)
-3. 🗣 Commented on [#5156](https://github.com/Agoric/agoric-sdk/issues/5156) in [Agoric/agoric-sdk](https://github.com/Agoric/agoric-sdk)
-4. 🗣 Commented on [#5156](https://github.com/Agoric/agoric-sdk/issues/5156) in [Agoric/agoric-sdk](https://github.com/Agoric/agoric-sdk)
-5. 🗣 Commented on [#1](https://github.com/Omni-GroundHogs/Front-end/issues/1) in [Omni-GroundHogs/Front-end](https://github.com/Omni-GroundHogs/Front-end)
-<!--END_SECTION:activity-->
-
 
 <br />
 
