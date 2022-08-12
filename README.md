@@ -30,6 +30,7 @@
             - Inclusion    -->
             
 Tech Stack 🔧 : 
+- JavaScript
 - Typescript
 - Sass
 - Styled Components
