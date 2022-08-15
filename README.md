@@ -39,10 +39,10 @@ Tech Stack 🔧 :
 - React
 - Redux
 - NextJS
-- Shell
+- Shell/PowerShell
+- Node
 - Docker
-- Express JS
-- Jest
+- Redis
 - Vite & Vitest
 
 Other interests: Speaking, Nanotechnology, Particle & Accelerator Physics
