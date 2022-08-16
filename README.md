@@ -43,6 +43,7 @@ Tech Stack 🔧 :
 - Node
 - Docker
 - Redis
+- Jest
 - Vite & Vitest
 
 Other interests: Speaking, Nanotechnology, Particle & Accelerator Physics
