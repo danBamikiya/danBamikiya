@@ -7,84 +7,31 @@
 
 <!-- Greeting -->
 
-### Hey-lo Dan Bamikiya here <img src="https://raw.githubusercontent.com/danBamikiya/danBamikiya/main/wave.gif" width="30px">
-
-
----
-
+#### Hey-lo Dan Bamikiya here <img src="https://raw.githubusercontent.com/danBamikiya/danBamikiya/main/wave.gif" width="20px">
 
 <!-- About -->
-<strong>I</strong> 
-- am a javascript engineer
-- building DeFi & Web3 tooling for the JavaScript ecosystem
-- <a href='https://oscafest22.sched.com/speaker/danbamikiya?iframe=yes&w=100%&sidebar=yes&bg=no'>speaker</a> at <a href='https://festival.oscafrica.org/'>#OSCAFEST22</a>
-- love
-   - writing nicely architectured code
-   - solving problems
-   - learning new things
-- am an <a href='http://nnedi.blogspot.com/2019/10/africanfuturism-defined.html'>#africanfuturism</a> advocate
-
-<!-- [Nat Friedman](https://github.com/nat) (CEO of GitHub) retweeted me. I'm famous 😎 -->
-
-<!-- I STAND for: 
-            - Diversity
-            - Inclusion    -->
+<strong>I</strong> am a JavaScript Engineer building DeFi & Web3 tooling for the JavaScript ecosystem, Occasional Speaker, <a href='http://nnedi.blogspot.com/2019/10/africanfuturism-defined.html'>#africanfuturism</a> advocate, Writer.
             
 Tech Stack 🔧 : 
-- JavaScript
-- Typescript
-- Sass
-- Styled Components
-- Tailwind CSS
-- React
-- Redux
-- NextJS
-- Shell/PowerShell
+- JavaScript <strong>//</strong> Typescript
+- Sass <strong>//</strong> Tailwind CSS
+- React <strong>//</strong> Redux <strong>//</strong> NextJS
+- Shell <strong>//</strong> PowerShell
 - Node
 - Docker
 - Redis
 - Jest
 - Vite & Vitest
 
-Other interests: Speaking, Nanotechnology, Particle & Accelerator Physics
-
-<!-- Stuffs I want to learn: Electron, Go, Ansible, Rust -->
-
-<!-- ### 🔧 Technologies & Tools
-
-  ---
-<details>
- <summary>👨🏾‍💻</summary>
- 
- <br />
- 
-![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&labelColor=9c9c9c&color=adbac7)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&labelColor=9c9c9c&color=adbac7)
-![](https://img.shields.io/badge/Code-Sass-informational?style=flat&logo=sass&logoColor=white&labelColor=9c9c9c&color=adbac7)
-![](https://img.shields.io/badge/Tool-Tailwind_CSS-informational?style=flat&logo=tailwindcss&logoColor=white&labelColor=9c9c9c&color=adbac7)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&labelColor=9c9c9c&color=adbac7)
-![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&labelColor=9c9c9c&color=adbac7)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&labelColor=9c9c9c&color=adbac7)
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&labelColor=9c9c9c&color=adbac7)
-![](https://img.shields.io/badge/Tool-Gatsby-informational?style=flat&logo=gatsby&logoColor=white&labelColor=9c9c9c&color=adbac7)
-![](https://img.shields.io/badge/Tool-Webpack-informational?style=flat&logo=webpack&logoColor=white&labelColor=9c9c9c&color=adbac7)
-![](https://img.shields.io/badge/Tool-Babel-informational?style=flat&logo=babel&logoColor=white&labelColor=9c9c9c&color=adbac7)
-![](https://img.shields.io/badge/Code-GraphQL-informational?style=flat&logo=graphql&logoColor=white&labelColor=9c9c9c&color=adbac7)
-![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazonaws&logoColor=white&labelColor=9c9c9c&color=adbac7)
-![](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=heroku&logoColor=white&labelColor=9c9c9c&color=adbac7)
-![](https://img.shields.io/badge/Tool-Redis-informational?style=flat&logo=redis&logoColor=white&labelColor=9c9c9c&color=adbac7)
-![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&logoColor=white&labelColor=9c9c9c&color=adbac7)
-![](https://img.shields.io/badge/Tool-Node.js-informational?style=flat&logo=node.js&logoColor=white&labelColor=9c9c9c&color=adbac7)
-![](https://img.shields.io/badge/Tool-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&labelColor=9c9c9c&color=adbac7)
-![](https://img.shields.io/badge/Tool-Jest-informational?style=flat&logo=jest&logoColor=white&labelColor=9c9c9c&color=adbac7)
-<!-- ![](https://img.shields.io/badge/Tool-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&labelColor=9c9c9c&color=adbac7) -->
-<!-- ![](https://img.shields.io/badge/Tool-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&labelColor=9c9c9c&color=adbac7) -->
-</details>
+Other interests: Quantum Computing, Nanotechnology, Particle & Accelerator Physics
 
 <br />
 
-<details id="contributions" open>
-   <summary><h3>Open Source contributions</h3></summary>
+<h2 id="contributions">Open Source contributions I'm proud of</h2>
+
+</summary>
+<details open>
+   <summary>
             <br />
             <ol>
                <p>
@@ -112,11 +59,7 @@ Other interests: Speaking, Nanotechnology, Particle & Accelerator Physics
             </li>
                </p>
                <p>
-            <li>Ideas (effects+animations) - <a href="https://github.com/benawad/dogehouse">benawad/dogehouse</a> - A social audio app where users can communicate in audio chat rooms
-            </li>
-               </p>
-               <p>
-            <li>Ideas (autocomplete brackets) - <a href="https://github.com/carbon-app/carbon">carbon-app/carbon</a> - A web app to create and share beautiful images of your source code
+            <li>Idea, Planning, Feedback (autocomplete brackets) - <a href="https://github.com/carbon-app/carbon">carbon-app/carbon</a> - A web app to create and share beautiful images of your source code
             </li>
                </p>
                <p>
@@ -139,16 +82,6 @@ Other interests: Speaking, Nanotechnology, Particle & Accelerator Physics
              <li>Code - <a href="https://github.com/kubernetes/dashboard">kubernetes/dashboard</a> - Official Kubernetes Dashboard - <a href="https://github.com/kubernetes/dashboard/pulls?q=is%3Apr+author%3AdanBamikiya">Contributions</a>
             </li>
                </p>
-               <p>
-            <li>Code - <a href="https://github.com/bazelbuild/bazel">bazelbuild/bazel</a> - A fast, scalable, multi-language and extensible build system - <a href="https://github.com/bazelbuild/bazel/pulls?q=is%3Apr+author%3AdanBamikiya">Contributions</a>
-            </li>
-               </p>
-               <p>
-            <li>Code - <a href="https://github.com/rome/tools">rome/tools</a> - A linter, compiler, bundler, and more. - <a href="https://github.com/rome/tools/pulls?q=is%3Apr+author%3AdanBamikiya">Contributions</a>
-            </li>
-               </p>
-            <li>Code - <a href="https://github.com/dogehousetv/web">dogehousetv/web</a> - The frontend for the revived version of <a href="https://github.com/benawad/dogehouse">benawad/dogehouse</a> - <a href="https://github.com/dogehousetv/web/pulls?q=is%3Apr+author%3AdanBamikiya">Contributions</a>
-            </li>
             </ol>
 </details>
 
