@@ -22,6 +22,8 @@ Tech Stack 🔧 :
 - Redis
 - Jest
 - Vite & Vitest
+- Web3.js <strong>//</strong> Ethers.js
+- Infura
 
 Other interests: Quantum Computing, Nanotechnology, Particle & Accelerator Physics
 
