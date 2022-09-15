@@ -47,7 +47,7 @@ Other interests: Quantum Computing, Nanotechnology, Particle & Accelerator Physi
         </td>
       </tr>
       <tr>
-        <td width="400"><a href="https://github.com/babel/website"><b>Babel Documentations</b></a></td>
+        <td width="400"><a href="https://github.com/babel/website"><b>BabelJS Documentations</b></a></td>
         <td>
             <a href="https://github.com/babel/website/pulls?q=is%3Apr+author%3AdanBamikiya">Contributions</a>
             <p><i>Code</i></p>
