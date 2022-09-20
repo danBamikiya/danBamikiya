@@ -147,6 +147,26 @@ Other interests: Quantum Computing, Nanotechnology, Particle & Accelerator Physi
             <p><i>Code</i></p>
         </td>
       </tr>
+      <tr>
+        <td width="400">
+            <a href="https://github.com/bazelbuild/bazel/"><b>Bazel</b></a>
+            <p> A fast, scalable, multi-language and extensible build system</p>
+        </td>
+        <td>
+            <a href="https://github.com/bazelbuild/bazel/pulls?q=is%3Apr+author%3AdanBamikiya">Contributions</a>
+            <p><i>Code</i></p>
+        </td>
+      </tr>
+      <tr>
+        <td width="400">
+            <a href="https://github.com/rome/tools/"><b>Rome</b></a>
+            <p> A linter, compiler, bundler, and more.</p>
+        </td>
+        <td>
+            <a href="https://github.com/rome/tools/pulls?q=is%3Apr+author%3AdanBamikiya">Contributions</a>
+            <p><i>Code</i></p>
+        </td>
+      </tr>
     </tbody>
 </table>
 
