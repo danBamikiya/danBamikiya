@@ -13,17 +13,18 @@
 <strong>I</strong> am a JavaScript Engineer building DeFi & Web3 tooling for the JavaScript ecosystem, Occasional Speaker, <a href='http://nnedi.blogspot.com/2019/10/africanfuturism-defined.html'>#africanfuturism</a> advocate, Writer.
             
 Tech Stack 🔧 : 
-- JavaScript <strong>//</strong> Typescript
-- Sass <strong>//</strong> Tailwind CSS
-- React <strong>//</strong> Redux <strong>//</strong> NextJS
-- Shell <strong>//</strong> PowerShell
+- JavaScript <strong>--</strong> Typescript
+- Sass <strong>--</strong> Tailwind CSS
+- React <strong>--</strong> Redux <strong>--</strong> NextJS
+- Shell <strong>--</strong> PowerShell
 - Node
 - Docker
 - Redis
 - Jest
 - Vite & Vitest
-- Web3.js <strong>//</strong> Ethers.js
+- Web3.js <strong>--</strong> Ethers.js
 - Infura
+- Terraform
 
 Other interests: Quantum Computing, Nanotechnology, Particle & Accelerator Physics
 
