@@ -45,6 +45,7 @@ Other interests: Quantum Computing, Nanotechnology, Particle & Accelerator Physi
         <td>
             <a href="https://github.com/docker/docker.github.io/pulls?q=is%3Apr+author%3AdanBamikiya">Contributions</a>
             <p><i>Code</i></p>
+            <i>Clarifying content & Solving users issues in the Issues page</i>
         </td>
       </tr>
       <tr>
