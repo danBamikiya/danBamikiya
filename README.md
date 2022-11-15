@@ -10,7 +10,7 @@
 #### Hey-lo Dan Bamikiya here <img src="https://raw.githubusercontent.com/danBamikiya/danBamikiya/main/wave.gif" width="20px">
 
 <!-- About -->
-<strong>I</strong> am a JavaScript Engineer building DeFi & Web3 tooling for the JavaScript ecosystem, Occasional Speaker, <a href='http://nnedi.blogspot.com/2019/10/africanfuturism-defined.html'>#africanfuturism</a> advocate, Writer.
+<strong>I</strong> am a JavaScript Engineer building Web3 tooling for the JavaScript ecosystem, Occasional Speaker, <a href='http://nnedi.blogspot.com/2019/10/africanfuturism-defined.html'>#africanfuturism</a> advocate, Writer.
             
 Tech Stack 🔧 : 
 - JavaScript <strong>--</strong> Typescript
