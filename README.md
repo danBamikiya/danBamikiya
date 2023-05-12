@@ -51,6 +51,13 @@ Other interests: Quantum Computing, Nanotechnology, Particle & Accelerator Physi
         </td>
       </tr>
       <tr>
+        <td width="400"><a href="https://github.com/microsoft/vscode-docs"><b>VS Code Documentations</b></a></td>
+        <td>
+           <i>Code</i> <a href="https://github.com/microsoft/vscode-docs/pulls?q=is%3Apr+author%3AdanBamikiya">Contributions</a>
+            <p></p>
+        </td>
+      </tr>
+      <tr>
         <td width="400"><a href="https://github.com/babel/website"><b>BabelJS Documentations</b></a></td>
         <td>
            <i>Code</i> <a href="https://github.com/babel/website/pulls?q=is%3Apr+author%3AdanBamikiya">Contributions</a>
