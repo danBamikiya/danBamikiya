@@ -32,7 +32,7 @@ Other interests: Quantum Computing, Nanotechnology, Particle & Accelerator Physi
 
 <br />
 
-<h2 id="contributions">Open Source contributions I'm proud of</h2>
+<h2 id="contributions">Some Open Source contributions I'm proud of</h2>
 
 <table>
     <thead align="center">
@@ -45,23 +45,23 @@ Other interests: Quantum Computing, Nanotechnology, Particle & Accelerator Physi
        <tr>
         <td width="400"><a href="https://github.com/docker/docker.github.io"><b>Docker Documentations</b></a></td>
         <td>
-            <a href="https://github.com/docker/docker.github.io/pulls?q=is%3Apr+author%3AdanBamikiya">Contributions</a>
-            <p><i>Code</i></p>
-            <i>Clarifying content & Solving users issues in the Issues page</i>
+           <i>Code</i> <a href="https://github.com/docker/docker.github.io/pulls?q=is%3Apr+author%3AdanBamikiya">Contributions</a>
+            <p></p>
+            <a href="https://github.com/docker/docs/issues?q=is%3Aissue+commenter%3A%40me">Clarifying content & Solving users issues in the Issues page</a>
         </td>
       </tr>
       <tr>
         <td width="400"><a href="https://github.com/babel/website"><b>BabelJS Documentations</b></a></td>
         <td>
-            <a href="https://github.com/babel/website/pulls?q=is%3Apr+author%3AdanBamikiya">Contributions</a>
-            <p><i>Code</i></p>
+           <i>Code</i> <a href="https://github.com/babel/website/pulls?q=is%3Apr+author%3AdanBamikiya">Contributions</a>
+            <p></p>
         </td>
       </tr>
       <tr>
         <td width="400"><a href="https://github.com/github/docs"><b>Github Documentations</b></a></td>
         <td>
-            <a href="https://github.com/github/docs/pulls?q=is%3Apr+author%3AdanBamikiya">Contributions</a>
-            <p><i>Code</i></p>
+           <i>Code</i> <a href="https://github.com/github/docs/pulls?q=is%3Apr+author%3AdanBamikiya">Contributions</a>
+            <p></p>
         </td>
       </tr>
       <tr>
@@ -70,8 +70,8 @@ Other interests: Quantum Computing, Nanotechnology, Particle & Accelerator Physi
             <p>A VS Code extension to randomize your theme, font and icons on startup</p>
         </td>
         <td>
-            <a href="https://github.com/timdeschryver/vscode-chameleon/pulls?q=is%3Apr+author%3AdanBamikiya">Contributions</a>
-            <p><i>Ideas & Code</i></p>
+           <i>Ideas & Code</i> <a href="https://github.com/timdeschryver/vscode-chameleon/pulls?q=is%3Apr+author%3AdanBamikiya">Contributions</a>
+            <p></p>
         </td>
       </tr>
       <tr>
@@ -80,8 +80,8 @@ Other interests: Quantum Computing, Nanotechnology, Particle & Accelerator Physi
             <p>A GitHub Action for interacting with Google Cloud Platform (GCP) in CI/CD workflows</p>
         </td>
         <td>
-            <a href="https://github.com/actions-hub/gcloud/pulls?q=is%3Apr+author%3AdanBamikiya">Contributions</a>
-            <p><i>Code</i></p>
+           <i>Code</i> <a href="https://github.com/actions-hub/gcloud/pulls?q=is%3Apr+author%3AdanBamikiya">Contributions</a>
+            <p></p>
         </td>
       </tr>
       <tr>
@@ -90,8 +90,8 @@ Other interests: Quantum Computing, Nanotechnology, Particle & Accelerator Physi
             <p> A GitHub Action to fetch secrets from Google Secret Manager in CI/CD workflows</p>
         </td>
         <td>
-            <a href="https://github.com/google-github-actions/get-secretmanager-secrets/pulls?q=is%3Apr+author%3AdanBamikiya">Contributions</a>
-            <p><i>Code</i></p>
+           <i>Code</i> <a href="https://github.com/google-github-actions/get-secretmanager-secrets/pulls?q=is%3Apr+author%3AdanBamikiya">Contributions</a>
+            <p></p>
         </td>
       </tr>
       <tr>
@@ -100,7 +100,7 @@ Other interests: Quantum Computing, Nanotechnology, Particle & Accelerator Physi
             <p> A web app to create and share beautiful images of your source code</p>
         </td>
         <td>
-            <p>Idea, Planning, Feedback (Autocomplete Brackets)</p>
+            <p>Idea, Planning, Feedback (of the autocomplete brackets feature)</p>
         </td>
       </tr>
       <tr>
@@ -109,8 +109,8 @@ Other interests: Quantum Computing, Nanotechnology, Particle & Accelerator Physi
             <p> <a href="https://github.com/lauragift21" >@lauragift21</a>'s personal website</p>
         </td>
         <td>
-            <a href="https://github.com/lauragift21/giftegwuenu.dev/pulls?q=is%3Apr+author%3AdanBamikiya">Contributions</a>
-            <p><i>Code</i></p>
+           <i>Code</i> <a href="https://github.com/lauragift21/giftegwuenu.dev/pulls?q=is%3Apr+author%3AdanBamikiya">Contributions</a>
+            <p></p>
         </td>
       </tr>
       <tr>
@@ -119,8 +119,8 @@ Other interests: Quantum Computing, Nanotechnology, Particle & Accelerator Physi
             <p> A Node.js command line password generator</p>
         </td>
         <td>
-            <a href="https://github.com/bradtraversy/passgen/pulls?q=is%3Apr+author%3AdanBamikiya">Contributions</a>
-            <p><i>Code</i></p>
+           <i>Code</i> <a href="https://github.com/bradtraversy/passgen/pulls?q=is%3Apr+author%3AdanBamikiya">Contributions</a>
+            <p></p>
         </td>
       </tr>
       <tr>
@@ -128,8 +128,8 @@ Other interests: Quantum Computing, Nanotechnology, Particle & Accelerator Physi
             <a href="https://github.com/docker/compose"><b>Docker Compose</b></a>
         </td>
         <td>
-            <a href="https://github.com/docker/compose/pulls?q=is%3Apr+author%3AdanBamikiya">Contributions</a>
-            <p><i>Code</i></p>
+           <i>Code</i> <a href="https://github.com/docker/compose/pulls?q=is%3Apr+author%3AdanBamikiya">Contributions</a>
+            <p></p>
         </td>
       </tr>
       <tr>
@@ -137,8 +137,8 @@ Other interests: Quantum Computing, Nanotechnology, Particle & Accelerator Physi
             <a href="https://github.com/mdn/content"><b>MDN Web Docs</b></a>
         </td>
         <td>
-            <a href="https://github.com/mdn/content/pulls?q=is%3Apr+author%3AdanBamikiya">Contributions</a>
-            <p><i>Code</i></p>
+           <i>Code</i> <a href="https://github.com/mdn/content/pulls?q=is%3Apr+author%3AdanBamikiya">Contributions</a>
+            <p></p>
         </td>
       </tr>
       <tr>
@@ -147,8 +147,8 @@ Other interests: Quantum Computing, Nanotechnology, Particle & Accelerator Physi
             <p> General-purpose web UI for Kubernetes clusters</p>
         </td>
         <td>
-            <a href="https://github.com/kubernetes/dashboard/pulls?q=is%3Apr+author%3AdanBamikiya">Contributions</a>
-            <p><i>Code</i></p>
+           <i>Code</i> <a href="https://github.com/kubernetes/dashboard/pulls?q=is%3Apr+author%3AdanBamikiya">Contributions</a>
+            <p></p>
         </td>
       </tr>
       <tr>
@@ -157,8 +157,8 @@ Other interests: Quantum Computing, Nanotechnology, Particle & Accelerator Physi
             <p> A fast, scalable, multi-language and extensible build system</p>
         </td>
         <td>
-            <a href="https://github.com/bazelbuild/bazel/pulls?q=is%3Apr+author%3AdanBamikiya">Contributions</a>
-            <p><i>Code</i></p>
+           <i>Code</i> <a href="https://github.com/bazelbuild/bazel/pulls?q=is%3Apr+author%3AdanBamikiya">Contributions</a>
+            <p></p>
         </td>
       </tr>
       <tr>
@@ -167,8 +167,8 @@ Other interests: Quantum Computing, Nanotechnology, Particle & Accelerator Physi
             <p> A linter, compiler, bundler, and more.</p>
         </td>
         <td>
-            <a href="https://github.com/rome/tools/pulls?q=is%3Apr+author%3AdanBamikiya">Contributions</a>
-            <p><i>Code</i></p>
+           <i>Code</i> <a href="https://github.com/rome/tools/pulls?q=is%3Apr+author%3AdanBamikiya">Contributions</a>
+            <p></p>
         </td>
       </tr>
     </tbody>
@@ -176,7 +176,7 @@ Other interests: Quantum Computing, Nanotechnology, Particle & Accelerator Physi
 
 ### 🗣 Public Speaking
 
-* [Open Source Community Africa 2022 - [Tech Conference]](https://festival.oscafrica.org/) `March 26` `2022` - [YouTube Video](https://youtu.be/vSDCagLggQ0)
+* [Speaker](https://oscafest22.sched.com/speaker/danbamikiya?iframe=no&w=100%&sidebar=yes&bg=no) at [Open Source Community Africa 2022 - [Tech Conference]](https://festival.oscafrica.org/) `March 26` `2022` - [YouTube Video](https://youtu.be/vSDCagLggQ0)
 
 ### 📝 Technical Writing
 
