@@ -196,7 +196,7 @@ Other interests: Quantum Computing, Nanotechnology, Particle & Accelerator Physi
   <details>
  <summary>🧗‍♂️</summary>
  <br />
-🏸 Badminton  🏓 Table Tennis
+🛥 Jet-Skiing 🏸 Badminton  🏓 Table Tennis 🌊 Swimming 🧗🏼‍♂️ Rock Climbing
  </details>
  
  ### Stats
