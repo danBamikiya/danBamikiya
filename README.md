@@ -48,6 +48,7 @@ Other interests: Quantum Computing, Nanotechnology, Particle & Accelerator Physi
            <i>Code</i> <a href="https://github.com/docker/docker.github.io/pulls?q=is%3Apr+author%3AdanBamikiya">Contributions</a>
             <p></p>
             <a href="https://github.com/docker/docs/issues?q=is%3Aissue+commenter%3AdanBamikiya+sort%3Aupdated-desc+">Clarifying content & Solving users issues in the Issues page</a>
+            <p>Providing help, resolving bugs for the community of Docker users in the Docker Slack channel. (Took part of a Docker Desktop features preview once)</p>
         </td>
       </tr>
       <tr>
