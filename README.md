@@ -184,7 +184,7 @@ Other interests: Quantum Computing, Nanotechnology, Particle & Accelerator Physi
 
 ### 🗣 Public Speaking
 
-* [Speaker](https://oscafest22.sched.com/speaker/danbamikiya?iframe=no&w=100%&sidebar=yes&bg=no) at [Open Source Community Africa 2022 - [Tech Conference]](https://festival.oscafrica.org/) `March 26` `2022` - [YouTube Video](https://youtu.be/vSDCagLggQ0)
+* [ViteJS Speaker](https://oscafest22.sched.com/speaker/danbamikiya?iframe=no&w=100%&sidebar=yes&bg=no) at [Open Source Community Africa 2022 - [Tech Conference]](https://festival.oscafrica.org/) `March 26` `2022` - [YouTube Video](https://youtu.be/vSDCagLggQ0)
 
 ### 📝 Technical Writing
 
