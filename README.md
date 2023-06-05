@@ -20,6 +20,7 @@ Tech Stack 🔧 :
 - Shell <strong>--</strong> PowerShell
 - Node
 - Docker
+- Kubernetes
 - Redis
 - Jest
 - Vite & Vitest
@@ -27,6 +28,8 @@ Tech Stack 🔧 :
 - Go
 - Solidity
 - Terraform
+
+Portfolio: [dan-bamikiya.herokuapp.com](https://dan-bamikiya.herokuapp.com)
 
 Other interests: Quantum Computing, Nanotechnology, Particle & Accelerator Physics
 
