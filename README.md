@@ -11,27 +11,17 @@
 #### Hey-lo Dan Bamikiya here <img src="https://raw.githubusercontent.com/danBamikiya/danBamikiya/main/wave.gif" width="20px">
 
 <!-- About -->
-<strong>I</strong> am a JavaScript Engineer building Web3 tooling for the JavaScript ecosystem, Occasional Speaker, <a href='http://nnedi.blogspot.com/2019/10/africanfuturism-defined.html'>#africanfuturism</a> advocate, Writer.
-            
-Tech Stack 🔧 : 
-- JavaScript <strong>--</strong> Typescript
-- Sass <strong>--</strong> Tailwind CSS
-- React <strong>--</strong> Redux <strong>--</strong> NextJS
-- Shell <strong>--</strong> PowerShell
-- Node
-- Docker
-- Kubernetes
-- Redis
-- Jest
-- Vite & Vitest
-- Ethers.js
-- Go
-- Solidity
-- Terraform
+<strong>Dan</strong> is a Software Engineer very proficient in <strong>HTML</strong>, <strong>CSS</strong> & <strong>Sass</strong>, <strong>JavaScript</strong>, <strong>TypeScript</strong>, <strong>Solidity</strong>, <strong>Shell</strong>, and <strong>PowerShell</strong>.
+
+As a frontend-focused full-stack engineer, he excels at creating high-quality developer (DevX) and user experiences.
+At the frontend he specializes in web engineering and pushing beyond the boundaries of a framework commanding tools like <strong>React</strong>, <strong>NextJS</strong>, <strong>AngularJS</strong>, and <strong>TailwindCSS</strong>. With his wealth of experience, he is well-versed & solves problems in <strong>web performance</strong>, <strong>web security</strong>, <strong>web accessibility</strong>, and <strong>frontend tooling</strong>.
+
+At a <strong>full-stack</strong> scope, he has a wealth of experience commanding & solving problems with <strong>GraphQL</strong>, <strong>PostgreSQL</strong>, <strong>MongoDB</strong>, <strong>Docker</strong>, <strong>NGINX</strong>, <strong>Kubernetes</strong>, <strong>Redis</strong>, <strong>Jenkins</strong>, <strong>Terraform</strong>, <strong>Circle CI</strong>, <strong>Github Actions</strong>, <strong>AWS</strong> and <strong>GCP</strong> cloud services.
+<strong>Dan</strong> also speaks at tech conferences, and is an <a href='http://nnedi.blogspot.com/2019/10/africanfuturism-defined.html'>#africanfuturism</a> advocate, and a writer.
+
+With a strong background in <strong>Science and Engineering</strong>, Dan also has interests in Quantum Computing, Nanotechnology, Particle & Accelerator Physics and is always happy to chat about them.
 
 Portfolio: [dan-bamikiya.herokuapp.com](https://dan-bamikiya.herokuapp.com)
-
-Other interests: Quantum Computing, Nanotechnology, Particle & Accelerator Physics
 
 <br />
 
