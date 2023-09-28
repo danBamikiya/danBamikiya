@@ -25,7 +25,7 @@ With a strong background in <strong>Science and Engineering</strong>, Dan also h
 
 Portfolio: [dan-bamikiya.herokuapp.com](https://dan-bamikiya.herokuapp.com)
 
-<i> **Fun Fact**: Dan is multilingual. He natively speaks English, Yoruba, and Effik. He is actively learning to speak and write French and Spanish and also knows Kiswahili. </i>
+<i> **Fun Fact**: Dan is multilingual. A native speaker of English, Yoruba, and Effik. He is actively learning to speak and write French and Spanish and also knows Kiswahili. </i>
 
 <br />
 
