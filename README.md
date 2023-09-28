@@ -8,7 +8,7 @@
 
 <!-- Greeting -->
 
-#### Hey-lo <a href="https://danbamikiya.github.io/danBamikiya/">Dan Bamikiya</a> here <img src="https://raw.githubusercontent.com/danBamikiya/danBamikiya/main/wave.gif" width="20">
+#### <a href="https://danbamikiya.github.io/danBamikiya/">Hey-lo Dan Bamikiya here</a> <img src="https://raw.githubusercontent.com/danBamikiya/danBamikiya/main/wave.gif" width="20">
 
 <!-- About -->
 <strong>Dan</strong> is a Software Engineer very proficient in <strong>HTML</strong>, <strong>CSS</strong> & <strong>Sass</strong>, <strong>JavaScript</strong>, <strong>TypeScript</strong>, <strong>Solidity</strong>, <strong>Go</strong>, <strong>Shell</strong>, and <strong>PowerShell</strong>.
