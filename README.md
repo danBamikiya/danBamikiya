@@ -31,6 +31,7 @@ Portfolio: [dan-bamikiya.herokuapp.com](https://dan-bamikiya.herokuapp.com)
 
 <h2 id="contributions">Open Source Contributions</h2>
 These are <strong>some</strong> of the open source contributions Dan has made that he is proud of:
+<p></p>
 
 <details>
  <summary>Dev Tools</summary>
