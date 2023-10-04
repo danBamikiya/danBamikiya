@@ -19,13 +19,15 @@ As a frontend-focused full-stack engineer, he excels at creating high-quality de
 
 - At a <strong>full-stack</strong> scope, he has a wealth of experience commanding & solving problems with <strong>GraphQL</strong>, <strong>PostgreSQL</strong>, <strong>MongoDB</strong>, <strong>Docker</strong>, <strong>NGINX</strong>, <strong>Kubernetes</strong>, <strong>Redis</strong>, <strong>Jenkins</strong>, <strong>Terraform</strong>, <strong>Circle CI</strong>, <strong>Github Actions</strong>, <strong>AWS</strong> and <strong>GCP</strong> cloud services.
 
+- As a <strong>web3</strong> developer, he is experienced in building dApps on different chains, crypto (both fungible and non-fungible) tokens, and smart contracts with <strong>Solidity</strong>, <strong>web3.js</strong>, <strong>ethers.js</strong>, <strong>Truffle</strong>, and <strong>Hardhat</strong>.
+
 <strong>Dan</strong> also speaks at tech conferences, is an <a href='http://nnedi.blogspot.com/2019/10/africanfuturism-defined.html'>#africanfuturism</a> advocate, a writer, and an ancient art lover.
 
 With a strong background in <strong>Science and Engineering</strong>, Dan also has interests in Quantum Computing, Nanotechnology, Particle & Accelerator Physics and is always happy to chat about them.
 
 Portfolio: [dan-bamikiya.herokuapp.com](https://dan-bamikiya.herokuapp.com)
 
-<i> **Fun Fact**: Dan is multilingual. A native speaker of English, Yoruba, and Effik. He is actively learning to speak and write French and Spanish and also knows Kiswahili. </i>
+<i> **Fun Fact**: Dan is multilingual. A native speaker of English, Yoruba, and Effik. He is actively learning to speak and write French and Spanish and also knows some Kiswahili. </i>
 
 <br />
 
