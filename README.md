@@ -11,7 +11,7 @@
 #### <a href="https://danbamikiya.github.io/danBamikiya/">Heylo Dan Bamikiya here</a> <img src="https://raw.githubusercontent.com/danBamikiya/danBamikiya/main/wave.gif" width="20">
 
 <!-- About -->
-<strong>Dan</strong> is a Software Engineer very proficient in <strong>HTML</strong>, <strong>CSS</strong> & <strong>Sass</strong>, <strong>JavaScript</strong>, <strong>TypeScript</strong>, <strong>Solidity</strong>, <strong>Go</strong>, <strong>Shell</strong>, and <strong>PowerShell</strong>.
+<strong>Dan</strong> is a Software Engineer very proficient in <strong>HTML</strong>, <strong>CSS</strong> & <strong>Sass</strong>, <strong>JavaScript</strong>, <strong>TypeScript</strong>, <strong>Solidity</strong>, <strong>Go</strong>, <strong>Shell</strong>, <strong>PowerShell</strong>, <strong>Phyton</strong>, <strong>HCL</strong> and <strong>Rust</strong>.
 
 As a frontend-focused full-stack engineer, he excels at creating high-quality developer (DevX) and user experiences.
 
@@ -19,13 +19,13 @@ As a frontend-focused full-stack engineer, he excels at creating high-quality de
 
 - At a <strong>full-stack</strong> scope, he has a wealth of experience commanding & solving problems with <strong>GraphQL</strong>, <strong>PostgreSQL</strong>, <strong>MongoDB</strong>, <strong>Docker</strong>, <strong>NGINX</strong>, <strong>Kubernetes</strong>, <strong>Redis</strong>, <strong>Jenkins</strong>, <strong>Terraform</strong>, <strong>Circle CI</strong>, <strong>Github Actions</strong>, <strong>AWS</strong> and <strong>GCP</strong> cloud services.
 
-- As a <strong>web3</strong> developer, he is experienced in building dApps on different chains, crypto (both fungible and non-fungible) tokens, and smart contracts with <strong>Solidity</strong>, <strong>web3.js</strong>, <strong>ethers.js</strong>, <strong>Truffle</strong>, and <strong>Hardhat</strong>.
+- As a <strong>web3</strong> developer, he is experienced in building dApps on different chains, crypto (both fungible and non-fungible) tokens, and smart contracts with <strong>Solidity</strong>, <strong>web3.js</strong>, <strong>ethers.js</strong>, <strong>Truffle</strong>, and <strong>Hardhat</strong>, and <strong>Rust</strong>.
 
 <strong>Dan</strong> also speaks at tech conferences<strong>,</strong> is an effective accelerationist <strong>(e/acc),</strong> a techno-optimist<strong>,</strong> an ancient arts lover <strong>&</strong> strongly roots for <a href='http://nnedi.blogspot.com/2019/10/africanfuturism-defined.html'>#africanfuturism</a>.
 
 With a strong background in <strong>Science and Engineering</strong>, Dan also has interests in Quantum Computing, Nanotechnology, Particle & Accelerator Physics and is always happy to chat about them.
 
-Portfolio: [dan-bamikiya.herokuapp.com](https://dan-bamikiya.herokuapp.com)
+<!-- Portfolio: [dan-bamikiya.herokuapp.com](https://dan-bamikiya.herokuapp.com) -->
 
 <i> **Fun Fact**: Dan is multilingual. A native speaker of English, Yoruba, and Effik. He is actively learning to speak and write French and Spanish and also knows some Kiswahili. </i>
 
